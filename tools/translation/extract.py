@@ -28,6 +28,8 @@ OUT = os.path.join(ROOT, "tools", "translation", "et_untranslated.json")
 MEMORY = os.path.join(ROOT, "tools", "translation", "pocketred_et_memory.json")
 
 ASM_DIRS = ("data/text", "data/maps", "data/scripts")
+# Top-level ASM files not under ASM_DIRS (e.g. event_scripts.s).
+ASM_FILES = ("data/event_scripts.s",)
 STRING = re.compile(r'"((?:[^"\\]|\\.)*)"')
 LABEL = re.compile(r"^(\w[\w]*)::?\s*$")
 BREAK = re.compile(r"\\p|\\n|\\l")
@@ -46,6 +48,12 @@ C_FILES = [
     "src/data/pokemon/pokedex_text.h",
     "src/data/union_room.h",
     "src/data/credits.h",
+    "src/berry.c",
+    "src/berry_blender.c",
+    "src/berry_fix_program.c",
+    "src/data/trade.h",
+    "src/data/decoration/description.h",
+    "src/mystery_event_msg.c",
 ]
 # one _() holding one or more adjacent C string literals (they concatenate).
 C_LITERALS = re.compile(r'_\(\s*((?:"(?:[^"\\]|\\.)*"\s*)+)\)', re.S)
@@ -240,6 +248,9 @@ def main():
                 for n in sorted(names):
                     if n.endswith(".inc"):
                         extract_asm(os.path.relpath(os.path.join(dp, n), ROOT), rows)
+        for rel in ASM_FILES:
+            if os.path.exists(os.path.join(ROOT, rel)):
+                extract_asm(rel, rows)
     if not which or "c" in which:
         for rel in C_FILES:
             if os.path.exists(os.path.join(ROOT, rel)):

@@ -189849,5 +189849,3774 @@
   "occ": 157,
   "raw": "Erik Johnson",
   "et_src": "mt"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Cheri",
+  "box": 0,
+  "kind": "c",
+  "en": "Blooms with delicate pretty flowers.",
+  "et": "Õitseb õrnade kaunite õitega.",
+  "occ": 0,
+  "raw": "Blooms with delicate pretty flowers."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Cheri",
+  "box": 0,
+  "kind": "c",
+  "en": "The bright red BERRY is very spicy.",
+  "et": "Ergepunane BERRY on väga terav.",
+  "occ": 1,
+  "raw": "The bright red BERRY is very spicy."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Chesto",
+  "box": 0,
+  "kind": "c",
+  "en": "The BERRY's thick skin and fruit are",
+  "et": "BERRY paks koor ja viljaliha on",
+  "occ": 2,
+  "raw": "The BERRY's thick skin and fruit are"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Chesto",
+  "box": 0,
+  "kind": "c",
+  "en": "very tough. It is dry-tasting all over.",
+  "et": "väga sitked. Maitse on läbini kuiv.",
+  "occ": 3,
+  "raw": "very tough. It is dry-tasting all over."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Pecha",
+  "box": 0,
+  "kind": "c",
+  "en": "Very sweet and delicious.",
+  "et": "Väga magus ja maitsev.",
+  "occ": 4,
+  "raw": "Very sweet and delicious."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Pecha",
+  "box": 0,
+  "kind": "c",
+  "en": "Also very tender - handle with care.",
+  "et": "Ka väga õrn - käsitse hoolikalt.",
+  "occ": 5,
+  "raw": "Also very tender - handle with care."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Rawst",
+  "box": 0,
+  "kind": "c",
+  "en": "If the leaves grow long and curly,",
+  "et": "Kui lehed kasvavad pikaks ja lokkis,",
+  "occ": 6,
+  "raw": "If the leaves grow long and curly,"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Rawst",
+  "box": 0,
+  "kind": "c",
+  "en": "the BERRY seems to grow very bitter.",
+  "et": "näib BERRY väga mõruks muutuvat.",
+  "occ": 7,
+  "raw": "the BERRY seems to grow very bitter."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Aspear",
+  "box": 0,
+  "kind": "c",
+  "en": "The hard BERRY is dense with a rich",
+  "et": "Kõva BERRY on tihe, rikka",
+  "occ": 8,
+  "raw": "The hard BERRY is dense with a rich"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Aspear",
+  "box": 0,
+  "kind": "c",
+  "en": "juice. It is quite sour.",
+  "et": "mahlaga. See on üsna hapu.",
+  "occ": 9,
+  "raw": "juice. It is quite sour."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Leppa",
+  "box": 0,
+  "kind": "c",
+  "en": "Grows slower than CHERI and others.",
+  "et": "Kasvab aeglasemalt kui CHERI jt.",
+  "occ": 10,
+  "raw": "Grows slower than CHERI and others."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Leppa",
+  "box": 0,
+  "kind": "c",
+  "en": "The smaller the BERRY, the tastier.",
+  "et": "Mida väiksem BERRY, seda maitsvam.",
+  "occ": 11,
+  "raw": "The smaller the BERRY, the tastier."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Oran",
+  "box": 0,
+  "kind": "c",
+  "en": "A peculiar BERRY with a mix of flavors.",
+  "et": "Veider BERRY maitsete seguga.",
+  "occ": 12,
+  "raw": "A peculiar BERRY with a mix of flavors."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Oran",
+  "box": 0,
+  "kind": "c",
+  "en": "BERRIES grow in half a day.",
+  "et": "BERRY-d kasvavad poole päevaga.",
+  "occ": 13,
+  "raw": "BERRIES grow in half a day."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Persim",
+  "box": 0,
+  "kind": "c",
+  "en": "Loves sunlight. The BERRY's color",
+  "et": "Armastab päikest. BERRY värv",
+  "occ": 14,
+  "raw": "Loves sunlight. The BERRY's color"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Persim",
+  "box": 0,
+  "kind": "c",
+  "en": "grows vivid when exposed to the sun.",
+  "et": "muutub päikese käes erksaks.",
+  "occ": 15,
+  "raw": "grows vivid when exposed to the sun."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Lum",
+  "box": 0,
+  "kind": "c",
+  "en": "Slow to grow. If raised with loving",
+  "et": "Kasvab aeglaselt. Armastava hoolega",
+  "occ": 16,
+  "raw": "Slow to grow. If raised with loving"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Lum",
+  "box": 0,
+  "kind": "c",
+  "en": "care, it may grow two BERRIES.",
+  "et": "kasvatades võib anda kaks BERRY-t.",
+  "occ": 17,
+  "raw": "care, it may grow two BERRIES."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Sitrus",
+  "box": 0,
+  "kind": "c",
+  "en": "Closely related to ORAN. The large",
+  "et": "Lähedalt seotud ORANiga. Suurel",
+  "occ": 18,
+  "raw": "Closely related to ORAN. The large"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Sitrus",
+  "box": 0,
+  "kind": "c",
+  "en": "BERRY has a well-rounded flavor.",
+  "et": "BERRY-l on ümar maitse.",
+  "occ": 19,
+  "raw": "BERRY has a well-rounded flavor."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Figy",
+  "box": 0,
+  "kind": "c",
+  "en": "The BERRY, which looks chewed up,",
+  "et": "BERRY, mis näeb näritud välja,",
+  "occ": 20,
+  "raw": "The BERRY, which looks chewed up,"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Figy",
+  "box": 0,
+  "kind": "c",
+  "en": "brims with spicy substances.",
+  "et": "pakatab teravatest ainetest.",
+  "occ": 21,
+  "raw": "brims with spicy substances."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Wiki",
+  "box": 0,
+  "kind": "c",
+  "en": "The BERRY is said to have grown lumpy",
+  "et": "BERRY olevat kasvanud muhklikuks,",
+  "occ": 22,
+  "raw": "The BERRY is said to have grown lumpy"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Wiki",
+  "box": 0,
+  "kind": "c",
+  "en": "to help POKéMON grip it.",
+  "et": "et POKéMONil oleks hõlpsam haarata.",
+  "occ": 23,
+  "raw": "to help POKéMON grip it."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Mago",
+  "box": 0,
+  "kind": "c",
+  "en": "The BERRY turns curvy as it grows.",
+  "et": "BERRY muutub kasvades kõveraks.",
+  "occ": 24,
+  "raw": "The BERRY turns curvy as it grows."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Mago",
+  "box": 0,
+  "kind": "c",
+  "en": "The curvier, the sweeter and tastier.",
+  "et": "Mida kõveram, seda magusam.",
+  "occ": 25,
+  "raw": "The curvier, the sweeter and tastier."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Aguav",
+  "box": 0,
+  "kind": "c",
+  "en": "The flower is dainty. It is rare in its",
+  "et": "Õis on õrn. Ta on haruldane oma",
+  "occ": 26,
+  "raw": "The flower is dainty. It is rare in its"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Aguav",
+  "box": 0,
+  "kind": "c",
+  "en": "ability to grow without light.",
+  "et": "võime poolest kasvada ilma valguseta.",
+  "occ": 27,
+  "raw": "ability to grow without light."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Iapapa",
+  "box": 0,
+  "kind": "c",
+  "en": "The BERRY is very big and sour.",
+  "et": "BERRY on väga suur ja hapu.",
+  "occ": 28,
+  "raw": "The BERRY is very big and sour."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Iapapa",
+  "box": 0,
+  "kind": "c",
+  "en": "It takes at least a day to grow.",
+  "et": "Kasvamiseks kulub vähemalt päev.",
+  "occ": 29,
+  "raw": "It takes at least a day to grow."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Razz",
+  "box": 0,
+  "kind": "c",
+  "en": "The red BERRY tastes slightly spicy.",
+  "et": "Punane BERRY maitseb kergelt teravalt.",
+  "occ": 30,
+  "raw": "The red BERRY tastes slightly spicy."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Razz",
+  "box": 0,
+  "kind": "c",
+  "en": "It grows quickly in just four hours.",
+  "et": "Kasvab kiirelt, vaid nelja tunniga.",
+  "occ": 31,
+  "raw": "It grows quickly in just four hours."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Bluk",
+  "box": 0,
+  "kind": "c",
+  "en": "The BERRY is blue on the outside, but",
+  "et": "BERRY on väljast sinine, aga",
+  "occ": 32,
+  "raw": "The BERRY is blue on the outside, but"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Bluk",
+  "box": 0,
+  "kind": "c",
+  "en": "it blackens the mouth when eaten.",
+  "et": "süües teeb suu mustaks.",
+  "occ": 33,
+  "raw": "it blackens the mouth when eaten."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Nanab",
+  "box": 0,
+  "kind": "c",
+  "en": "This BERRY was the seventh",
+  "et": "See BERRY oli seitsmes",
+  "occ": 34,
+  "raw": "This BERRY was the seventh"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Nanab",
+  "box": 0,
+  "kind": "c",
+  "en": "discovered in the world. It is sweet.",
+  "et": "maailmas avastatu. See on magus.",
+  "occ": 35,
+  "raw": "discovered in the world. It is sweet."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Wepear",
+  "box": 0,
+  "kind": "c",
+  "en": "The flower is small and white. It has a",
+  "et": "Õis on väike ja valge. Tal on",
+  "occ": 36,
+  "raw": "The flower is small and white. It has a"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Wepear",
+  "box": 0,
+  "kind": "c",
+  "en": "delicate balance of bitter and sour.",
+  "et": "õrn tasakaal mõru ja hapu vahel.",
+  "occ": 37,
+  "raw": "delicate balance of bitter and sour."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Pinap",
+  "box": 0,
+  "kind": "c",
+  "en": "Weak against wind and cold.",
+  "et": "Nõrk tuule ja külma vastu.",
+  "occ": 38,
+  "raw": "Weak against wind and cold."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Pinap",
+  "box": 0,
+  "kind": "c",
+  "en": "The fruit is spicy and the skin, sour.",
+  "et": "Vili on terav ja koor hapu.",
+  "occ": 39,
+  "raw": "The fruit is spicy and the skin, sour."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Pomeg",
+  "box": 0,
+  "kind": "c",
+  "en": "However much it is watered,",
+  "et": "Ükskõik kui palju seda kastetakse,",
+  "occ": 40,
+  "raw": "However much it is watered,"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Pomeg",
+  "box": 0,
+  "kind": "c",
+  "en": "it only grows up to six BERRIES.",
+  "et": "kasvab vaid kuni kuus BERRY-t.",
+  "occ": 41,
+  "raw": "it only grows up to six BERRIES."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Kelpsy",
+  "box": 0,
+  "kind": "c",
+  "en": "A rare variety shaped like a root.",
+  "et": "Haruldane sort, juure kujuline.",
+  "occ": 42,
+  "raw": "A rare variety shaped like a root."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Kelpsy",
+  "box": 0,
+  "kind": "c",
+  "en": "Grows a very large flower.",
+  "et": "Kasvatab väga suure õie.",
+  "occ": 43,
+  "raw": "Grows a very large flower."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Qualot",
+  "box": 0,
+  "kind": "c",
+  "en": "Loves water. Grows strong even in",
+  "et": "Armastab vett. Kasvab tugevaks isegi",
+  "occ": 44,
+  "raw": "Loves water. Grows strong even in"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Qualot",
+  "box": 0,
+  "kind": "c",
+  "en": "locations with constant rainfall.",
+  "et": "paigus, kus sajab pidevalt.",
+  "occ": 45,
+  "raw": "locations with constant rainfall."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Hondew",
+  "box": 0,
+  "kind": "c",
+  "en": "A BERRY that is very valuable and",
+  "et": "BERRY, mis on väga väärtuslik ja",
+  "occ": 46,
+  "raw": "A BERRY that is very valuable and"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Hondew",
+  "box": 0,
+  "kind": "c",
+  "en": "rarely seen. It is very delicious.",
+  "et": "harva nähtud. See on väga maitsev.",
+  "occ": 47,
+  "raw": "rarely seen. It is very delicious."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Grepa",
+  "box": 0,
+  "kind": "c",
+  "en": "Despite its tenderness and round",
+  "et": "Vaatamata õrnusele ja ümmargusele",
+  "occ": 48,
+  "raw": "Despite its tenderness and round"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Grepa",
+  "box": 0,
+  "kind": "c",
+  "en": "shape, the BERRY is unimaginably sour.",
+  "et": "kujule on BERRY uskumatult hapu.",
+  "occ": 49,
+  "raw": "shape, the BERRY is unimaginably sour."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Tamato",
+  "box": 0,
+  "kind": "c",
+  "en": "The BERRY is lip-bendingly spicy.",
+  "et": "BERRY on huuli-väänavalt terav.",
+  "occ": 50,
+  "raw": "The BERRY is lip-bendingly spicy."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Tamato",
+  "box": 0,
+  "kind": "c",
+  "en": "It takes time to grow.",
+  "et": "Kasvamiseks kulub aega.",
+  "occ": 51,
+  "raw": "It takes time to grow."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Cornn",
+  "box": 0,
+  "kind": "c",
+  "en": "A BERRY from an ancient era. May not",
+  "et": "BERRY muistsest ajastust. Ei pruugi",
+  "occ": 52,
+  "raw": "A BERRY from an ancient era. May not"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Cornn",
+  "box": 0,
+  "kind": "c",
+  "en": "grow unless planted in quantity.",
+  "et": "kasvada, kui pole hulgi istutatud.",
+  "occ": 53,
+  "raw": "grow unless planted in quantity."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Magost",
+  "box": 0,
+  "kind": "c",
+  "en": "A BERRY that is widely said to have",
+  "et": "BERRY, millel laialt öeldakse olevat",
+  "occ": 54,
+  "raw": "A BERRY that is widely said to have"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Magost",
+  "box": 0,
+  "kind": "c",
+  "en": "a finely balanced flavor.",
+  "et": "peenelt tasakaalus maitse.",
+  "occ": 55,
+  "raw": "a finely balanced flavor."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Rabuta",
+  "box": 0,
+  "kind": "c",
+  "en": "A rare variety that is overgrown with",
+  "et": "Haruldane sort, mis on karvu",
+  "occ": 56,
+  "raw": "A rare variety that is overgrown with"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Rabuta",
+  "box": 0,
+  "kind": "c",
+  "en": "hair. It is quite bitter.",
+  "et": "täis kasvanud. See on üsna mõru.",
+  "occ": 57,
+  "raw": "hair. It is quite bitter."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Nomel",
+  "box": 0,
+  "kind": "c",
+  "en": "Quite sour. Just one bite makes it",
+  "et": "Üsna hapu. Vaid üks hammustus teeb",
+  "occ": 58,
+  "raw": "Quite sour. Just one bite makes it"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Nomel",
+  "box": 0,
+  "kind": "c",
+  "en": "impossible to taste for three days.",
+  "et": "maitsmise kolmeks päevaks võimatuks.",
+  "occ": 59,
+  "raw": "impossible to taste for three days."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Spelon",
+  "box": 0,
+  "kind": "c",
+  "en": "The vividly red BERRY is very spicy.",
+  "et": "Erkpunane BERRY on väga terav.",
+  "occ": 60,
+  "raw": "The vividly red BERRY is very spicy."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Spelon",
+  "box": 0,
+  "kind": "c",
+  "en": "Its warts secrete a spicy substance.",
+  "et": "Ta soolatüükad eritavad teravat ainet.",
+  "occ": 61,
+  "raw": "Its warts secrete a spicy substance."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Pamtre",
+  "box": 0,
+  "kind": "c",
+  "en": "Drifts on the sea from somewhere.",
+  "et": "Triivib merel kuskilt kohale.",
+  "occ": 62,
+  "raw": "Drifts on the sea from somewhere."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Pamtre",
+  "box": 0,
+  "kind": "c",
+  "en": "It is thought to grow elsewhere.",
+  "et": "Arvatakse, et kasvab mujal.",
+  "occ": 63,
+  "raw": "It is thought to grow elsewhere."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Watmel",
+  "box": 0,
+  "kind": "c",
+  "en": "A huge BERRY, with some over 20",
+  "et": "Tohutu BERRY, mõni üle 20",
+  "occ": 64,
+  "raw": "A huge BERRY, with some over 20"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Watmel",
+  "box": 0,
+  "kind": "c",
+  "en": "inches discovered. Exceedingly sweet.",
+  "et": "tolli leitud. Ülimalt magus.",
+  "occ": 65,
+  "raw": "inches discovered. Exceedingly sweet."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Durin",
+  "box": 0,
+  "kind": "c",
+  "en": "Bitter to even look at. It is so",
+  "et": "Mõru isegi vaadata. Nii mõru,",
+  "occ": 66,
+  "raw": "Bitter to even look at. It is so"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Durin",
+  "box": 0,
+  "kind": "c",
+  "en": "bitter, no one has ever eaten it as is.",
+  "et": "et keegi pole seda toorelt söönud.",
+  "occ": 67,
+  "raw": "bitter, no one has ever eaten it as is."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Belue",
+  "box": 0,
+  "kind": "c",
+  "en": "It is glossy and looks delicious, but",
+  "et": "Läikiv ja näeb maitsev välja, aga",
+  "occ": 68,
+  "raw": "It is glossy and looks delicious, but"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Belue",
+  "box": 0,
+  "kind": "c",
+  "en": "it is awfully sour. Takes time to grow.",
+  "et": "kohutavalt hapu. Kasvab kaua.",
+  "occ": 69,
+  "raw": "it is awfully sour. Takes time to grow."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Liechi",
+  "box": 0,
+  "kind": "c",
+  "en": "A mysterious BERRY. It is rumored to",
+  "et": "Salapärane BERRY. Kuuldavasti",
+  "occ": 70,
+  "raw": "A mysterious BERRY. It is rumored to"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Liechi",
+  "box": 0,
+  "kind": "c",
+  "en": "contain the power of the sea.",
+  "et": "sisaldab see mere jõudu.",
+  "occ": 71,
+  "raw": "contain the power of the sea."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Ganlon",
+  "box": 0,
+  "kind": "c",
+  "en": "A mysterious BERRY. It is rumored to",
+  "et": "Salapärane BERRY. Kuuldavasti",
+  "occ": 72,
+  "raw": "A mysterious BERRY. It is rumored to"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Ganlon",
+  "box": 0,
+  "kind": "c",
+  "en": "contain the power of the land.",
+  "et": "sisaldab see maa jõudu.",
+  "occ": 73,
+  "raw": "contain the power of the land."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Salac",
+  "box": 0,
+  "kind": "c",
+  "en": "A mysterious BERRY. It is rumored to",
+  "et": "Salapärane BERRY. Kuuldavasti",
+  "occ": 74,
+  "raw": "A mysterious BERRY. It is rumored to"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Salac",
+  "box": 0,
+  "kind": "c",
+  "en": "contain the power of the sky.",
+  "et": "sisaldab see taeva jõudu.",
+  "occ": 75,
+  "raw": "contain the power of the sky."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Petaya",
+  "box": 0,
+  "kind": "c",
+  "en": "A mysterious BERRY. It is rumored to",
+  "et": "Salapärane BERRY. Kuuldavasti",
+  "occ": 76,
+  "raw": "A mysterious BERRY. It is rumored to"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Petaya",
+  "box": 0,
+  "kind": "c",
+  "en": "contain the power of all living things.",
+  "et": "sisaldab kõigi elusolendite jõudu.",
+  "occ": 77,
+  "raw": "contain the power of all living things."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Apicot",
+  "box": 0,
+  "kind": "c",
+  "en": "A very mystifying BERRY. No telling",
+  "et": "Väga mõistatuslik BERRY. Pole öelda,",
+  "occ": 78,
+  "raw": "A very mystifying BERRY. No telling"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Apicot",
+  "box": 0,
+  "kind": "c",
+  "en": "what may happen or how it can be used.",
+  "et": "mis juhtub või kuidas seda kasutada.",
+  "occ": 79,
+  "raw": "what may happen or how it can be used."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Lansat",
+  "box": 0,
+  "kind": "c",
+  "en": "Said to be a legendary BERRY.",
+  "et": "Öeldakse olevat legendaarne BERRY.",
+  "occ": 80,
+  "raw": "Said to be a legendary BERRY."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Lansat",
+  "box": 0,
+  "kind": "c",
+  "en": "Holding it supposedly brings joy.",
+  "et": "Selle hoidmine toovat rõõmu.",
+  "occ": 81,
+  "raw": "Holding it supposedly brings joy."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Starf",
+  "box": 0,
+  "kind": "c",
+  "en": "So strong, it was abandoned at the",
+  "et": "Nii tugev, et hüljati maailma",
+  "occ": 82,
+  "raw": "So strong, it was abandoned at the"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Starf",
+  "box": 0,
+  "kind": "c",
+  "en": "world's edge. Considered a mirage.",
+  "et": "serva. Peetakse miraažiks.",
+  "occ": 83,
+  "raw": "world's edge. Considered a mirage."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart1_Enigma",
+  "box": 0,
+  "kind": "c",
+  "en": "A completely enigmatic BERRY.",
+  "et": "Täiesti mõistatuslik BERRY.",
+  "occ": 84,
+  "raw": "A completely enigmatic BERRY."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "sBerryDescriptionPart2_Enigma",
+  "box": 0,
+  "kind": "c",
+  "en": "Appears to have the power of stars.",
+  "et": "Näib omavat tähtede jõudu.",
+  "occ": 85,
+  "raw": "Appears to have the power of stars."
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "CHERI",
+  "et": "CHERI",
+  "occ": 86,
+  "raw": "CHERI"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "CHESTO",
+  "et": "CHESTO",
+  "occ": 87,
+  "raw": "CHESTO"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "PECHA",
+  "et": "PECHA",
+  "occ": 88,
+  "raw": "PECHA"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "RAWST",
+  "et": "RAWST",
+  "occ": 89,
+  "raw": "RAWST"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "ASPEAR",
+  "et": "ASPEAR",
+  "occ": 90,
+  "raw": "ASPEAR"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "LEPPA",
+  "et": "LEPPA",
+  "occ": 91,
+  "raw": "LEPPA"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "ORAN",
+  "et": "ORAN",
+  "occ": 92,
+  "raw": "ORAN"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "PERSIM",
+  "et": "PERSIM",
+  "occ": 93,
+  "raw": "PERSIM"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "LUM",
+  "et": "LUM",
+  "occ": 94,
+  "raw": "LUM"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "SITRUS",
+  "et": "SITRUS",
+  "occ": 95,
+  "raw": "SITRUS"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "FIGY",
+  "et": "FIGY",
+  "occ": 96,
+  "raw": "FIGY"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "WIKI",
+  "et": "WIKI",
+  "occ": 97,
+  "raw": "WIKI"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "MAGO",
+  "et": "MAGO",
+  "occ": 98,
+  "raw": "MAGO"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "AGUAV",
+  "et": "AGUAV",
+  "occ": 99,
+  "raw": "AGUAV"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "IAPAPA",
+  "et": "IAPAPA",
+  "occ": 100,
+  "raw": "IAPAPA"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "RAZZ",
+  "et": "RAZZ",
+  "occ": 101,
+  "raw": "RAZZ"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "BLUK",
+  "et": "BLUK",
+  "occ": 102,
+  "raw": "BLUK"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "NANAB",
+  "et": "NANAB",
+  "occ": 103,
+  "raw": "NANAB"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "WEPEAR",
+  "et": "WEPEAR",
+  "occ": 104,
+  "raw": "WEPEAR"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "PINAP",
+  "et": "PINAP",
+  "occ": 105,
+  "raw": "PINAP"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "POMEG",
+  "et": "POMEG",
+  "occ": 106,
+  "raw": "POMEG"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "KELPSY",
+  "et": "KELPSY",
+  "occ": 107,
+  "raw": "KELPSY"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "QUALOT",
+  "et": "QUALOT",
+  "occ": 108,
+  "raw": "QUALOT"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "HONDEW",
+  "et": "HONDEW",
+  "occ": 109,
+  "raw": "HONDEW"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "GREPA",
+  "et": "GREPA",
+  "occ": 110,
+  "raw": "GREPA"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "TAMATO",
+  "et": "TAMATO",
+  "occ": 111,
+  "raw": "TAMATO"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "CORNN",
+  "et": "CORNN",
+  "occ": 112,
+  "raw": "CORNN"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "MAGOST",
+  "et": "MAGOST",
+  "occ": 113,
+  "raw": "MAGOST"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "RABUTA",
+  "et": "RABUTA",
+  "occ": 114,
+  "raw": "RABUTA"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "NOMEL",
+  "et": "NOMEL",
+  "occ": 115,
+  "raw": "NOMEL"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "SPELON",
+  "et": "SPELON",
+  "occ": 116,
+  "raw": "SPELON"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "PAMTRE",
+  "et": "PAMTRE",
+  "occ": 117,
+  "raw": "PAMTRE"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "WATMEL",
+  "et": "WATMEL",
+  "occ": 118,
+  "raw": "WATMEL"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "DURIN",
+  "et": "DURIN",
+  "occ": 119,
+  "raw": "DURIN"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "BELUE",
+  "et": "BELUE",
+  "occ": 120,
+  "raw": "BELUE"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "LIECHI",
+  "et": "LIECHI",
+  "occ": 121,
+  "raw": "LIECHI"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "GANLON",
+  "et": "GANLON",
+  "occ": 122,
+  "raw": "GANLON"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "SALAC",
+  "et": "SALAC",
+  "occ": 123,
+  "raw": "SALAC"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "PETAYA",
+  "et": "PETAYA",
+  "occ": 124,
+  "raw": "PETAYA"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "APICOT",
+  "et": "APICOT",
+  "occ": 125,
+  "raw": "APICOT"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "LANSAT",
+  "et": "LANSAT",
+  "occ": 126,
+  "raw": "LANSAT"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "STARF",
+  "et": "STARF",
+  "occ": 127,
+  "raw": "STARF"
+ },
+ {
+  "file": "src/berry.c",
+  "label": "name",
+  "box": 0,
+  "kind": "c",
+  "en": "ENIGMA",
+  "et": "ENIGMA",
+  "occ": 128,
+  "raw": "ENIGMA"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sUnusedText_YesNo",
+  "box": 0,
+  "kind": "c",
+  "en": "YES NO",
+  "et": "YES NO",
+  "occ": 0,
+  "raw": "YES\\nNO"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sUnusedText_2",
+  "box": 0,
+  "kind": "c",
+  "en": "▶",
+  "et": "▶",
+  "occ": 1,
+  "raw": "▶"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sUnusedText_Terminating",
+  "box": 0,
+  "kind": "c",
+  "en": "Terminating.",
+  "et": "Lõpetan.",
+  "occ": 2,
+  "raw": "Terminating."
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sUnusedText_LinkPartnerNotFound",
+  "box": 0,
+  "kind": "c",
+  "en": "Link partner(s) not found. Please try again.",
+  "et": "Ühenduspartnerit ei leitud. Palun proovi uuesti.",
+  "occ": 3,
+  "raw": "Link partner(s) not found.\\nPlease try again.\\p"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sUnusedText_LinkPartnerNotFound",
+  "box": 1,
+  "kind": "c",
+  "en": "",
+  "et": "",
+  "occ": 3,
+  "raw": "Link partner(s) not found.\\nPlease try again.\\p"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_BerryBlenderStart",
+  "box": 0,
+  "kind": "c",
+  "en": "Starting up the BERRY BLENDER.",
+  "et": "BERRY BLENDER käivitub.",
+  "occ": 4,
+  "raw": "Starting up the BERRY BLENDER.\\pPlease select a BERRY from your BAG\\nto put in the BERRY BLENDER.\\p"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_BerryBlenderStart",
+  "box": 1,
+  "kind": "c",
+  "en": "Please select a BERRY from your BAG to put in the BERRY BLENDER.",
+  "et": "Palun vali oma KOTIST BERRY, mille BERRY BLENDERISSE panna.",
+  "occ": 4,
+  "raw": "Starting up the BERRY BLENDER.\\pPlease select a BERRY from your BAG\\nto put in the BERRY BLENDER.\\p"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_BerryBlenderStart",
+  "box": 2,
+  "kind": "c",
+  "en": "",
+  "et": "",
+  "occ": 4,
+  "raw": "Starting up the BERRY BLENDER.\\pPlease select a BERRY from your BAG\\nto put in the BERRY BLENDER.\\p"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_WasMade",
+  "box": 0,
+  "kind": "c",
+  "en": "was made!",
+  "et": "tehti!",
+  "occ": 5,
+  "raw": " was made!"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_Mister",
+  "box": 0,
+  "kind": "c",
+  "en": "MISTER",
+  "et": "MISTER",
+  "occ": 6,
+  "raw": "MISTER"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_Laddie",
+  "box": 0,
+  "kind": "c",
+  "en": "LADDIE",
+  "et": "LADDIE",
+  "occ": 7,
+  "raw": "LADDIE"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_Lassie",
+  "box": 0,
+  "kind": "c",
+  "en": "LASSIE",
+  "et": "LASSIE",
+  "occ": 8,
+  "raw": "LASSIE"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_Master",
+  "box": 0,
+  "kind": "c",
+  "en": "MASTER",
+  "et": "MASTER",
+  "occ": 9,
+  "raw": "MASTER"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_Dude",
+  "box": 0,
+  "kind": "c",
+  "en": "DUDE",
+  "et": "DUDE",
+  "occ": 10,
+  "raw": "DUDE"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_Miss",
+  "box": 0,
+  "kind": "c",
+  "en": "MISS",
+  "et": "MISS",
+  "occ": 11,
+  "raw": "MISS"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_PressAToStart",
+  "box": 0,
+  "kind": "c",
+  "en": "Press the A Button to start.",
+  "et": "Vajuta alustamiseks A-nuppu.",
+  "occ": 12,
+  "raw": "Press the A Button to start."
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_PleaseWaitAWhile",
+  "box": 0,
+  "kind": "c",
+  "en": "Please wait a while.",
+  "et": "Palun oota veidi.",
+  "occ": 13,
+  "raw": "Please wait a while."
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_CommunicationStandby",
+  "box": 0,
+  "kind": "c",
+  "en": "Communication standby…",
+  "et": "Sideühenduse ootel…",
+  "occ": 14,
+  "raw": "Communication standby…"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_WouldLikeToBlendAnotherBerry",
+  "box": 0,
+  "kind": "c",
+  "en": "Would you like to blend another BERRY?",
+  "et": "Kas sooviksid segada veel üht BERRY-t?",
+  "occ": 15,
+  "raw": "Would you like to blend another BERRY?"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_RunOutOfBerriesForBlending",
+  "box": 0,
+  "kind": "c",
+  "en": "You've run out of BERRIES for blending in the BERRY BLENDER.",
+  "et": "Sul said BERRY-d otsa, mida BERRY BLENDERIS segada.",
+  "occ": 16,
+  "raw": "You've run out of BERRIES for\\nblending in the BERRY BLENDER.\\p"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_RunOutOfBerriesForBlending",
+  "box": 1,
+  "kind": "c",
+  "en": "",
+  "et": "",
+  "occ": 16,
+  "raw": "You've run out of BERRIES for\\nblending in the BERRY BLENDER.\\p"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_YourPokeblockCaseIsFull",
+  "box": 0,
+  "kind": "c",
+  "en": "Your {POKEBLOCK} CASE is full.",
+  "et": "Su {POKEBLOCK} CASE on täis.",
+  "occ": 17,
+  "raw": "Your {POKEBLOCK} CASE is full.\\p"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_YourPokeblockCaseIsFull",
+  "box": 1,
+  "kind": "c",
+  "en": "",
+  "et": "",
+  "occ": 17,
+  "raw": "Your {POKEBLOCK} CASE is full.\\p"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_HasNoBerriesToPut",
+  "box": 0,
+  "kind": "c",
+  "en": "has no BERRIES to put in the BERRY BLENDER.",
+  "et": "-l pole BERRY-sid, mida BERRY BLENDERISSE panna.",
+  "occ": 18,
+  "raw": " has no BERRIES to put in\\nthe BERRY BLENDER."
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_ApostropheSPokeblockCaseIsFull",
+  "box": 0,
+  "kind": "c",
+  "en": "'s {POKEBLOCK} CASE is full.",
+  "et": "{POKEBLOCK} CASE on täis.",
+  "occ": 19,
+  "raw": "'s {POKEBLOCK} CASE is full.\\p"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_ApostropheSPokeblockCaseIsFull",
+  "box": 1,
+  "kind": "c",
+  "en": "",
+  "et": "",
+  "occ": 19,
+  "raw": "'s {POKEBLOCK} CASE is full.\\p"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_BlendingResults",
+  "box": 0,
+  "kind": "c",
+  "en": "RESULTS OF BLENDING",
+  "et": "SEGAMISE TULEMUSED",
+  "occ": 20,
+  "raw": "RESULTS OF BLENDING"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_BerryUsed",
+  "box": 0,
+  "kind": "c",
+  "en": "BERRY USED",
+  "et": "KASUTATUD BERRY",
+  "occ": 21,
+  "raw": "BERRY USED"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_SpaceBerry",
+  "box": 0,
+  "kind": "c",
+  "en": "BERRY",
+  "et": "BERRY",
+  "occ": 22,
+  "raw": " BERRY"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_Time",
+  "box": 0,
+  "kind": "c",
+  "en": "Time:",
+  "et": "Aeg:",
+  "occ": 23,
+  "raw": "Time:"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_Min",
+  "box": 0,
+  "kind": "c",
+  "en": "min.",
+  "et": "min.",
+  "occ": 24,
+  "raw": " min. "
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_Sec",
+  "box": 0,
+  "kind": "c",
+  "en": "sec.",
+  "et": "sek.",
+  "occ": 25,
+  "raw": " sec."
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_MaximumSpeed",
+  "box": 0,
+  "kind": "c",
+  "en": "MAXIMUM SPEED",
+  "et": "MAKS. KIIRUS",
+  "occ": 26,
+  "raw": "MAXIMUM SPEED"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_RPM",
+  "box": 0,
+  "kind": "c",
+  "en": "RPM",
+  "et": "RPM",
+  "occ": 27,
+  "raw": " RPM"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_Dot",
+  "box": 0,
+  "kind": "c",
+  "en": ".",
+  "et": ".",
+  "occ": 28,
+  "raw": "."
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_Ranking",
+  "box": 0,
+  "kind": "c",
+  "en": "RANKING",
+  "et": "EDETABEL",
+  "occ": 29,
+  "raw": "RANKING"
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_TheLevelIs",
+  "box": 0,
+  "kind": "c",
+  "en": "The level is",
+  "et": "Tase on",
+  "occ": 30,
+  "raw": "The level is "
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_TheFeelIs",
+  "box": 0,
+  "kind": "c",
+  "en": ", and the feel is",
+  "et": "ja tunne on",
+  "occ": 31,
+  "raw": ", and the feel is "
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sText_Dot2",
+  "box": 0,
+  "kind": "c",
+  "en": ".",
+  "et": ".",
+  "occ": 32,
+  "raw": "."
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sJPText_GoodTvReady",
+  "box": 0,
+  "kind": "c",
+  "en": "いいTVができました",
+  "et": "いいTVができました",
+  "occ": 33,
+  "raw": "\\nいいTVができました "
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sJPText_BadTvReady",
+  "box": 0,
+  "kind": "c",
+  "en": "ダメTVができました",
+  "et": "ダメTVができました",
+  "occ": 34,
+  "raw": "\\nダメTVができました "
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sJPText_Flavors",
+  "box": 0,
+  "kind": "c",
+  "en": "からい",
+  "et": "からい",
+  "occ": 35,
+  "raw": "からい",
+  "maxlen": 5
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sJPText_Flavors",
+  "box": 0,
+  "kind": "c",
+  "en": "しぶい",
+  "et": "しぶい",
+  "occ": 36,
+  "raw": "しぶい",
+  "maxlen": 5
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sJPText_Flavors",
+  "box": 0,
+  "kind": "c",
+  "en": "あまい",
+  "et": "あまい",
+  "occ": 37,
+  "raw": "あまい",
+  "maxlen": 5
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sJPText_Flavors",
+  "box": 0,
+  "kind": "c",
+  "en": "にがい",
+  "et": "にがい",
+  "occ": 38,
+  "raw": "にがい",
+  "maxlen": 5
+ },
+ {
+  "file": "src/berry_blender.c",
+  "label": "sJPText_Flavors",
+  "box": 0,
+  "kind": "c",
+  "en": "すっぱい",
+  "et": "すっぱい",
+  "occ": 39,
+  "raw": "すっぱい",
+  "maxlen": 5
+ },
+ {
+  "file": "src/berry_fix_program.c",
+  "label": "sText_BerryProgramUpdate",
+  "box": 0,
+  "kind": "c",
+  "en": "Berry Program Update",
+  "et": "Berry Programmi uuendus",
+  "occ": 0,
+  "raw": "Berry Program Update"
+ },
+ {
+  "file": "src/berry_fix_program.c",
+  "label": "sText_RubySapphire",
+  "box": 0,
+  "kind": "c",
+  "en": "Ruby/Sapphire",
+  "et": "Ruby/Sapphire",
+  "occ": 1,
+  "raw": "Ruby/Sapphire"
+ },
+ {
+  "file": "src/berry_fix_program.c",
+  "label": "sText_Emerald",
+  "box": 0,
+  "kind": "c",
+  "en": "Emerald",
+  "et": "Emerald",
+  "occ": 2,
+  "raw": "Emerald"
+ },
+ {
+  "file": "src/berry_fix_program.c",
+  "label": "sText_BerryProgramWillBeUpdatedPressA",
+  "box": 0,
+  "kind": "c",
+  "en": "The Berry Program on your POKéMON Ruby/Sapphire Game Pak will be updated. {COLOR RED}{SHADOW LIGHT_RED}Press the A Button.",
+  "et": "Su POKéMON Ruby/Sapphire Game Paki Berry Programmi uuendatakse. {COLOR RED}{SHADOW LIGHT_RED}Vajuta A-nuppu.",
+  "occ": 3,
+  "raw": "The Berry Program on your POKéMON\\nRuby/Sapphire Game Pak will be updated.\\n{COLOR RED}{SHADOW LIGHT_RED}Press the A Button."
+ },
+ {
+  "file": "src/berry_fix_program.c",
+  "label": "sText_EnsureGBAConnectionMatches",
+  "box": 0,
+  "kind": "c",
+  "en": "Please ensure the connection of your Game Boy Advance system matches this. {COLOR RED}{SHADOW LIGHT_RED}YES: Press the A Button. NO: Turn off the power and try again.",
+  "et": "Palun veendu, et su Game Boy Advance'i ühendus vastab sellele. {COLOR RED}{SHADOW LIGHT_RED}JAH: Vajuta A-nuppu. EI: Lülita toide välja, proovi uuesti.",
+  "occ": 4,
+  "raw": "Please ensure the connection of your\\nGame Boy Advance system matches this.\\n{COLOR RED}{SHADOW LIGHT_RED}YES: Press the A Button.\\nNO: Turn off the power and try again."
+ },
+ {
+  "file": "src/berry_fix_program.c",
+  "label": "sText_TurnOffPowerHoldingStartSelect",
+  "box": 0,
+  "kind": "c",
+  "en": "Please turn on the power of POKéMON Ruby/Sapphire while holding START and SELECT simultaneously. Then, ensure the picture above appears.",
+  "et": "Lülita POKéMON Ruby/Sapphire sisse, hoides samal ajal all START ja SELECT. Seejärel veendu, et ülal ilmub pilt.",
+  "occ": 5,
+  "raw": "Please turn on the power of POKéMON\\nRuby/Sapphire while holding START and\\nSELECT simultaneously. Then, ensure\\nthe picture above appears."
+ },
+ {
+  "file": "src/berry_fix_program.c",
+  "label": "sText_TransmittingPleaseWait",
+  "box": 0,
+  "kind": "c",
+  "en": "Transmitting. Please wait. {COLOR RED}{SHADOW LIGHT_RED}Please do not turn off the power or unplug the Game Boy Advance Game Link Cable.",
+  "et": "Edastan. Palun oota. {COLOR RED}{SHADOW LIGHT_RED}Palun ära lülita toidet välja ega ühenda lahti Game Boy Advance'i Game Link Cable'it.",
+  "occ": 6,
+  "raw": "Transmitting. Please wait.\\n{COLOR RED}{SHADOW LIGHT_RED}Please do not turn off the power or\\nunplug the Game Boy Advance Game\\nLink Cable."
+ },
+ {
+  "file": "src/berry_fix_program.c",
+  "label": "sText_PleaseFollowInstructionsOnScreen",
+  "box": 0,
+  "kind": "c",
+  "en": "Please follow the instructions on your POKéMON Ruby/Sapphire screen.",
+  "et": "Palun järgi juhiseid oma POKéMON Ruby/Sapphire ekraanil.",
+  "occ": 7,
+  "raw": "Please follow the instructions on your\\nPOKéMON Ruby/Sapphire screen."
+ },
+ {
+  "file": "src/berry_fix_program.c",
+  "label": "sText_TransmissionFailureTryAgain",
+  "box": 0,
+  "kind": "c",
+  "en": "Transmission failure. {COLOR RED}{SHADOW LIGHT_RED}Please try again.",
+  "et": "Edastuse viga. {COLOR RED}{SHADOW LIGHT_RED}Palun proovi uuesti.",
+  "occ": 8,
+  "raw": "Transmission failure.\\n{COLOR RED}{SHADOW LIGHT_RED}Please try again."
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_UnusedTextFormat",
+  "box": 0,
+  "kind": "c",
+  "en": "{COLOR WHITE}{HIGHLIGHT TRANSPARENT}{SHADOW DARK_GRAY}",
+  "et": "{COLOR WHITE}{HIGHLIGHT TRANSPARENT}{SHADOW DARK_GRAY}",
+  "occ": 0,
+  "raw": "{COLOR WHITE}{HIGHLIGHT TRANSPARENT}{SHADOW DARK_GRAY}"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "gText_MaleSymbol4",
+  "box": 0,
+  "kind": "c",
+  "en": "♂",
+  "et": "♂",
+  "occ": 1,
+  "raw": "♂"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "gText_FemaleSymbol4",
+  "box": 0,
+  "kind": "c",
+  "en": "♀",
+  "et": "♀",
+  "occ": 2,
+  "raw": "♀"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_SpaceMove",
+  "box": 0,
+  "kind": "c",
+  "en": "MOVE",
+  "et": "MOVE",
+  "occ": 3,
+  "raw": " MOVE"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_Slash",
+  "box": 0,
+  "kind": "c",
+  "en": "/",
+  "et": "/",
+  "occ": 4,
+  "raw": "/"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_Lv",
+  "box": 0,
+  "kind": "c",
+  "en": "Lv.",
+  "et": "Lv.",
+  "occ": 5,
+  "raw": "Lv. "
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_ThreeDashes",
+  "box": 0,
+  "kind": "c",
+  "en": "---",
+  "et": "---",
+  "occ": 6,
+  "raw": "---"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_FourQuestionMarks",
+  "box": 0,
+  "kind": "c",
+  "en": "????",
+  "et": "????",
+  "occ": 7,
+  "raw": "????"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_IsThisTradeOkay",
+  "box": 0,
+  "kind": "c",
+  "en": "Is this trade okay?",
+  "et": "Kas see vahetus sobib?",
+  "occ": 8,
+  "raw": "Is this trade okay?"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_Cancel",
+  "box": 0,
+  "kind": "c",
+  "en": "CANCEL",
+  "et": "CANCEL",
+  "occ": 9,
+  "raw": "CANCEL"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_ChooseAPkmn",
+  "box": 0,
+  "kind": "c",
+  "en": "Choose a POKéMON.",
+  "et": "Vali POKéMON.",
+  "occ": 10,
+  "raw": "Choose a POKéMON."
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_Summary",
+  "box": 0,
+  "kind": "c",
+  "en": "SUMMARY",
+  "et": "ÜLEVAADE",
+  "occ": 11,
+  "raw": "SUMMARY"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_Trade",
+  "box": 0,
+  "kind": "c",
+  "en": "TRADE",
+  "et": "VAHETA",
+  "occ": 12,
+  "raw": "TRADE"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_CancelTrade",
+  "box": 0,
+  "kind": "c",
+  "en": "Cancel trade?",
+  "et": "Tühistada vahetus?",
+  "occ": 13,
+  "raw": "Cancel trade?"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sJPText_PressBButtonToQuit",
+  "box": 0,
+  "kind": "c",
+  "en": "Bボタン で もどります",
+  "et": "Bボタン で もどります",
+  "occ": 14,
+  "raw": "Bボタン　で　もどります"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_Summary2",
+  "box": 0,
+  "kind": "c",
+  "en": "SUMMARY",
+  "et": "ÜLEVAADE",
+  "occ": 15,
+  "raw": "SUMMARY"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_Trade2",
+  "box": 0,
+  "kind": "c",
+  "en": "TRADE",
+  "et": "VAHETA",
+  "occ": 16,
+  "raw": "TRADE"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_CommunicationStandby",
+  "box": 0,
+  "kind": "c",
+  "en": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Communication standby… Please wait.",
+  "et": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Sideühenduse ootel… Palun oota.",
+  "occ": 17,
+  "raw": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Communication standby…\\nPlease wait."
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_TheTradeHasBeenCanceled",
+  "box": 0,
+  "kind": "c",
+  "en": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}The trade has been canceled.",
+  "et": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Vahetus tühistati.",
+  "occ": 18,
+  "raw": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}The trade has\\nbeen canceled."
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_OnlyPkmnForBattle",
+  "box": 0,
+  "kind": "c",
+  "en": "That's your only POKéMON for battle.",
+  "et": "See on su ainus võitlev POKéMON.",
+  "occ": 19,
+  "raw": "That's your only\\nPOKéMON for battle."
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_WaitingForYourFriend",
+  "box": 0,
+  "kind": "c",
+  "en": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Waiting for your friend to finish…",
+  "et": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Ootan, kuni su sõber lõpetab…",
+  "occ": 20,
+  "raw": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Waiting for your friend\\nto finish…"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_YourFriendWantsToTrade",
+  "box": 0,
+  "kind": "c",
+  "en": "Your friend wants to trade POKéMON.",
+  "et": "Su sõber tahab POKéMONe vahetada.",
+  "occ": 21,
+  "raw": "Your friend wants\\nto trade POKéMON."
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "sText_ShedinjaJP",
+  "box": 0,
+  "kind": "c",
+  "en": "ヌケニン",
+  "et": "ヌケニン",
+  "occ": 22,
+  "raw": "ヌケニン"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "nickname",
+  "box": 0,
+  "kind": "c",
+  "en": "DOTS",
+  "et": "DOTS",
+  "occ": 23,
+  "raw": "DOTS"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "otName",
+  "box": 0,
+  "kind": "c",
+  "en": "KOBE",
+  "et": "KOBE",
+  "occ": 24,
+  "raw": "KOBE"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "nickname",
+  "box": 0,
+  "kind": "c",
+  "en": "PLUSES",
+  "et": "PLUSES",
+  "occ": 25,
+  "raw": "PLUSES"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "otName",
+  "box": 0,
+  "kind": "c",
+  "en": "ROMAN",
+  "et": "ROMAN",
+  "occ": 26,
+  "raw": "ROMAN"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "nickname",
+  "box": 0,
+  "kind": "c",
+  "en": "SEASOR",
+  "et": "SEASOR",
+  "occ": 27,
+  "raw": "SEASOR"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "otName",
+  "box": 0,
+  "kind": "c",
+  "en": "SKYLAR",
+  "et": "SKYLAR",
+  "occ": 28,
+  "raw": "SKYLAR"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "nickname",
+  "box": 0,
+  "kind": "c",
+  "en": "MEOWOW",
+  "et": "MEOWOW",
+  "occ": 29,
+  "raw": "MEOWOW"
+ },
+ {
+  "file": "src/data/trade.h",
+  "label": "otName",
+  "box": 0,
+  "kind": "c",
+  "en": "ISIS",
+  "et": "ISIS",
+  "occ": 30,
+  "raw": "ISIS"
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SMALL_DESK",
+  "box": 0,
+  "kind": "c",
+  "en": "A small desk built for one.",
+  "et": "Väike laud ühele.",
+  "occ": 0,
+  "raw": "A small desk built\\nfor one."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_POKEMON_DESK",
+  "box": 0,
+  "kind": "c",
+  "en": "A small desk built in the shape of a POKé BALL.",
+  "et": "Väike laud POKé BALLi kujul.",
+  "occ": 1,
+  "raw": "A small desk built in\\nthe shape of a POKé\\nBALL."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_HEAVY_DESK",
+  "box": 0,
+  "kind": "c",
+  "en": "A large desk made of steel. Put some decorations on it.",
+  "et": "Suur teraslaud. Aseta peale kaunistusi.",
+  "occ": 2,
+  "raw": "A large desk made\\nof steel. Put some\\ndecorations on it."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_RAGGED_DESK",
+  "box": 0,
+  "kind": "c",
+  "en": "A large desk made of wood. Put some decorations on it.",
+  "et": "Suur puitlaud. Aseta peale kaunistusi.",
+  "occ": 3,
+  "raw": "A large desk made\\nof wood. Put some\\ndecorations on it."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_COMFORT_DESK",
+  "box": 0,
+  "kind": "c",
+  "en": "A large desk made of leaves. Put some decorations on it.",
+  "et": "Suur lehtlaud. Aseta peale kaunistusi.",
+  "occ": 4,
+  "raw": "A large desk made\\nof leaves. Put some\\ndecorations on it."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_PRETTY_DESK",
+  "box": 0,
+  "kind": "c",
+  "en": "A huge desk made of glass. Holds lots of decorations.",
+  "et": "Suur klaaslaud. Mahutab palju kaunistusi.",
+  "occ": 5,
+  "raw": "A huge desk made\\nof glass. Holds lots\\nof decorations."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_BRICK_DESK",
+  "box": 0,
+  "kind": "c",
+  "en": "A huge desk made of brick. Holds lots of decorations.",
+  "et": "Suur tellislaud. Mahutab palju kaunistusi.",
+  "occ": 6,
+  "raw": "A huge desk made\\nof brick. Holds lots\\nof decorations."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_CAMP_DESK",
+  "box": 0,
+  "kind": "c",
+  "en": "A huge desk made of logs. Put lots of decorations on it.",
+  "et": "Suur palklaud. Mahutab palju kaunistusi.",
+  "occ": 7,
+  "raw": "A huge desk made\\nof logs. Put lots of\\ndecorations on it."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_HARD_DESK",
+  "box": 0,
+  "kind": "c",
+  "en": "A huge desk made of rocks. Holds many decorations.",
+  "et": "Suur kivilaud. Mahutab palju kaunistusi.",
+  "occ": 8,
+  "raw": "A huge desk made\\nof rocks. Holds\\nmany decorations."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SMALL_CHAIR",
+  "box": 0,
+  "kind": "c",
+  "en": "A small chair made for one.",
+  "et": "Väike tool ühele.",
+  "occ": 9,
+  "raw": "A small chair made\\nfor one."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_POKEMON_CHAIR",
+  "box": 0,
+  "kind": "c",
+  "en": "A small chair built in the shape of a POKé BALL.",
+  "et": "Väike tool POKé BALLi kujul.",
+  "occ": 10,
+  "raw": "A small chair built\\nin the shape of a\\nPOKé BALL."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_HEAVY_CHAIR",
+  "box": 0,
+  "kind": "c",
+  "en": "A small chair made of steel.",
+  "et": "Väike terastool.",
+  "occ": 11,
+  "raw": "A small chair made\\nof steel."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_PRETTY_CHAIR",
+  "box": 0,
+  "kind": "c",
+  "en": "A small chair made of glass.",
+  "et": "Väike klaastool.",
+  "occ": 12,
+  "raw": "A small chair made\\nof glass."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_COMFORT_CHAIR",
+  "box": 0,
+  "kind": "c",
+  "en": "A small chair made of leaves.",
+  "et": "Väike lehttool.",
+  "occ": 13,
+  "raw": "A small chair made\\nof leaves."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_RAGGED_CHAIR",
+  "box": 0,
+  "kind": "c",
+  "en": "A small chair made of wood.",
+  "et": "Väike puittool.",
+  "occ": 14,
+  "raw": "A small chair made\\nof wood."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_BRICK_CHAIR",
+  "box": 0,
+  "kind": "c",
+  "en": "A small chair made of brick.",
+  "et": "Väike tellistool.",
+  "occ": 15,
+  "raw": "A small chair made\\nof brick."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_CAMP_CHAIR",
+  "box": 0,
+  "kind": "c",
+  "en": "A small chair made of logs.",
+  "et": "Väike palktool.",
+  "occ": 16,
+  "raw": "A small chair made\\nof logs."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_HARD_CHAIR",
+  "box": 0,
+  "kind": "c",
+  "en": "A small chair made of rock.",
+  "et": "Väike kivitool.",
+  "occ": 17,
+  "raw": "A small chair made\\nof rock."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_RED_PLANT",
+  "box": 0,
+  "kind": "c",
+  "en": "A vivid red potted plant.",
+  "et": "Erepunane potitaim.",
+  "occ": 18,
+  "raw": "A vivid red potted\\nplant."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_TROPICAL_PLANT",
+  "box": 0,
+  "kind": "c",
+  "en": "A flowering tropical plant in a pot.",
+  "et": "Õitsev troopiline potitaim.",
+  "occ": 19,
+  "raw": "A flowering tropical\\nplant in a pot."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_PRETTY_FLOWERS",
+  "box": 0,
+  "kind": "c",
+  "en": "A pot of cute flowers.",
+  "et": "Pott armsaid lilli.",
+  "occ": 20,
+  "raw": "A pot of cute\\nflowers."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_COLORFUL_PLANT",
+  "box": 0,
+  "kind": "c",
+  "en": "A large pot with many colorful flowers.",
+  "et": "Suur pott paljude värviliste lilledega.",
+  "occ": 21,
+  "raw": "A large pot with\\nmany colorful\\nflowers."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_BIG_PLANT",
+  "box": 0,
+  "kind": "c",
+  "en": "A large, umbrellashaped plant in a big pot.",
+  "et": "Suur vihmavarjutaim suures potis.",
+  "occ": 22,
+  "raw": "A large, umbrella-\\nshaped plant in a\\nbig pot."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_GORGEOUS_PLANT",
+  "box": 0,
+  "kind": "c",
+  "en": "A large, impressive plant in a big pot.",
+  "et": "Suur uhke taim suures potis.",
+  "occ": 23,
+  "raw": "A large, impressive\\nplant in a big pot."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_RED_BRICK",
+  "box": 0,
+  "kind": "c",
+  "en": "A red-colored brick. Decorations can be placed on top.",
+  "et": "Punane tellis. Aseta peale kaunistusi.",
+  "occ": 24,
+  "raw": "A red-colored brick.\\nDecorations can be\\nplaced on top."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_YELLOW_BRICK",
+  "box": 0,
+  "kind": "c",
+  "en": "A yellow-colored brick. Put some decorations on top.",
+  "et": "Kollane tellis. Aseta peale kaunistusi.",
+  "occ": 25,
+  "raw": "A yellow-colored\\nbrick. Put some\\ndecorations on top."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_BLUE_BRICK",
+  "box": 0,
+  "kind": "c",
+  "en": "A blue-colored brick. Put some decorations on top.",
+  "et": "Sinine tellis. Aseta peale kaunistusi.",
+  "occ": 26,
+  "raw": "A blue-colored\\nbrick. Put some\\ndecorations on top."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_RED_BALLOON",
+  "box": 0,
+  "kind": "c",
+  "en": "A red balloon filled with water. Bursts if stepped on.",
+  "et": "Punane veepall. Lõhkeb peale astudes.",
+  "occ": 27,
+  "raw": "A red balloon filled\\nwith water. Bursts\\nif stepped on."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_BLUE_BALLOON",
+  "box": 0,
+  "kind": "c",
+  "en": "A blue balloon filled with water. Bursts if stepped on.",
+  "et": "Sinine veepall. Lõhkeb peale astudes.",
+  "occ": 28,
+  "raw": "A blue balloon filled\\nwith water. Bursts\\nif stepped on."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_YELLOW_BALLOON",
+  "box": 0,
+  "kind": "c",
+  "en": "A yellow balloon filled with water. Pops if stepped on.",
+  "et": "Kollane veepall. Lõhkeb peale astudes.",
+  "occ": 29,
+  "raw": "A yellow balloon\\nfilled with water.\\nPops if stepped on."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_RED_TENT",
+  "box": 0,
+  "kind": "c",
+  "en": "A large red tent. You can hide inside it.",
+  "et": "Suur punane telk. Saad sisse peituda.",
+  "occ": 30,
+  "raw": "A large red tent.\\nYou can hide inside\\nit."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_BLUE_TENT",
+  "box": 0,
+  "kind": "c",
+  "en": "A large blue tent. You can hide inside it.",
+  "et": "Suur sinine telk. Saad sisse peituda.",
+  "occ": 31,
+  "raw": "A large blue tent.\\nYou can hide inside\\nit."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SOLID_BOARD",
+  "box": 0,
+  "kind": "c",
+  "en": "Place over a hole to cross to the other side.",
+  "et": "Aseta augu peale, et teisele poole pääseda.",
+  "occ": 32,
+  "raw": "Place over a hole to\\ncross to the other\\nside."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SLIDE",
+  "box": 0,
+  "kind": "c",
+  "en": "Use to slide down from the platform.",
+  "et": "Liugle platvormilt alla.",
+  "occ": 33,
+  "raw": "Use to slide down\\nfrom the platform."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_FENCE_LENGTH",
+  "box": 0,
+  "kind": "c",
+  "en": "A small fence that blocks passage.",
+  "et": "Väike aed, mis tõkestab läbipääsu.",
+  "occ": 34,
+  "raw": "A small fence that\\nblocks passage."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_FENCE_WIDTH",
+  "box": 0,
+  "kind": "c",
+  "en": "A small fence that blocks passage.",
+  "et": "Väike aed, mis tõkestab läbipääsu.",
+  "occ": 35,
+  "raw": "A small fence that\\nblocks passage."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_TIRE",
+  "box": 0,
+  "kind": "c",
+  "en": "An old large tire. Decorations can be placed on top.",
+  "et": "Vana suur rehv. Aseta peale kaunistusi.",
+  "occ": 36,
+  "raw": "An old large tire.\\nDecorations can be\\nplaced on top."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_STAND",
+  "box": 0,
+  "kind": "c",
+  "en": "A large pedestal with steps.",
+  "et": "Suur astmetega alus.",
+  "occ": 37,
+  "raw": "A large pedestal\\nwith steps."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_MUD_BALL",
+  "box": 0,
+  "kind": "c",
+  "en": "A large ball of mud. Crumbles if stepped on.",
+  "et": "Suur mudapall. Puruneb peale astudes.",
+  "occ": 38,
+  "raw": "A large ball of mud.\\nCrumbles if stepped\\non."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_BREAKABLE_DOOR",
+  "box": 0,
+  "kind": "c",
+  "en": "A weird door that people can walk right through.",
+  "et": "Veider uks, millest saab otse läbi kõndida.",
+  "occ": 39,
+  "raw": "A weird door that\\npeople can walk\\nright through."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SAND_ORNAMENT",
+  "box": 0,
+  "kind": "c",
+  "en": "An ornament made of sand. Crumbles if touched.",
+  "et": "Liivakaunistus. Puruneb puudutades.",
+  "occ": 40,
+  "raw": "An ornament made\\nof sand. Crumbles if\\ntouched."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SILVER_SHIELD",
+  "box": 0,
+  "kind": "c",
+  "en": "Awarded for 50 straight wins at the BATTLE TOWER.",
+  "et": "BATTLE TOWERi 50 järjestikuse võidu auhind.",
+  "occ": 41,
+  "raw": "Awarded for 50\\nstraight wins at\\nthe BATTLE TOWER."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_GOLD_SHIELD",
+  "box": 0,
+  "kind": "c",
+  "en": "Awarded for 100 straight wins at the BATTLE TOWER.",
+  "et": "BATTLE TOWERi 100 järjestikuse võidu auhind.",
+  "occ": 42,
+  "raw": "Awarded for 100\\nstraight wins at\\nthe BATTLE TOWER."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_GLASS_ORNAMENT",
+  "box": 0,
+  "kind": "c",
+  "en": "A glass replica of a famous sculpture at the ART MUSEUM.",
+  "et": "ART MUSEUMi kuulsa skulptuuri klaaskoopia.",
+  "occ": 43,
+  "raw": "A glass replica of\\na famous sculpture\\nat the ART MUSEUM."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_TV",
+  "box": 0,
+  "kind": "c",
+  "en": "A small, graycolored toy TV.",
+  "et": "Väike hall mänguteler.",
+  "occ": 44,
+  "raw": "A small, gray-\\ncolored toy TV."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_ROUND_TV",
+  "box": 0,
+  "kind": "c",
+  "en": "A toy TV modeled in the image of a SEEDOT.",
+  "et": "SEEDOTi kujuline mänguteler.",
+  "occ": 45,
+  "raw": "A toy TV modeled\\nin the image of a\\nSEEDOT."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_CUTE_TV",
+  "box": 0,
+  "kind": "c",
+  "en": "A toy TV modeled in the image of a SKITTY.",
+  "et": "SKITTY kujuline mänguteler.",
+  "occ": 46,
+  "raw": "A toy TV modeled\\nin the image of a\\nSKITTY."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_GLITTER_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "An odd mat that glitters if stepped on.",
+  "et": "Veider matt, mis astudes särab.",
+  "occ": 47,
+  "raw": "An odd mat that\\nglitters if stepped\\non."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_JUMP_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A trick mat that jumps when it is stepped on.",
+  "et": "Trikimatt, mis astudes hüppab.",
+  "occ": 48,
+  "raw": "A trick mat that\\njumps when it is\\nstepped on."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SPIN_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A trick mat that spins around when stepped on.",
+  "et": "Trikimatt, mis astudes keerleb.",
+  "occ": 49,
+  "raw": "A trick mat that\\nspins around when\\nstepped on."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_C_LOW_NOTE_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat that plays a low C note when stepped on.",
+  "et": "Astudes mängib madalat C-nooti.",
+  "occ": 50,
+  "raw": "A mat that plays\\na low C note when\\nstepped on."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_D_NOTE_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat that plays a D note when stepped on.",
+  "et": "Astudes mängib D-nooti.",
+  "occ": 51,
+  "raw": "A mat that plays\\na D note when\\nstepped on."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_E_NOTE_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat that plays an E note when stepped on.",
+  "et": "Astudes mängib E-nooti.",
+  "occ": 52,
+  "raw": "A mat that plays\\nan E note when\\nstepped on."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_F_NOTE_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat that plays an F note when stepped on.",
+  "et": "Astudes mängib F-nooti.",
+  "occ": 53,
+  "raw": "A mat that plays\\nan F note when\\nstepped on."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_G_NOTE_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat that plays a G note when stepped on.",
+  "et": "Astudes mängib G-nooti.",
+  "occ": 54,
+  "raw": "A mat that plays\\na G note when\\nstepped on."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_A_NOTE_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat that plays an A note when stepped on.",
+  "et": "Astudes mängib A-nooti.",
+  "occ": 55,
+  "raw": "A mat that plays\\nan A note when\\nstepped on."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_B_NOTE_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat that plays a B note when stepped on.",
+  "et": "Astudes mängib B-nooti.",
+  "occ": 56,
+  "raw": "A mat that plays\\na B note when\\nstepped on."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_C_HIGH_NOTE_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat that plays a high C note when stepped on.",
+  "et": "Astudes mängib kõrget C-nooti.",
+  "occ": 57,
+  "raw": "A mat that plays\\na high C note when\\nstepped on."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SURF_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat designed with a SURF image. Put items on top.",
+  "et": "SURF-matt. Pane peale esemeid.",
+  "occ": 58,
+  "raw": "A mat designed with\\na SURF image.\\nPut items on top."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_THUNDER_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat designed with a THUNDER image. Put items on top.",
+  "et": "THUNDER-matt. Pane peale esemeid.",
+  "occ": 59,
+  "raw": "A mat designed with\\na THUNDER image.\\nPut items on top."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_FIRE_BLAST_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat designed with a FIRE BLAST image. Put items on top.",
+  "et": "FIRE BLAST-matt. Pane peale esemeid.",
+  "occ": 60,
+  "raw": "A mat designed with\\na FIRE BLAST image.\\nPut items on top."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_POWDER_SNOW_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat with a POWDER SNOW image design. Put items on top.",
+  "et": "POWDER SNOW-matt. Pane peale esemeid.",
+  "occ": 61,
+  "raw": "A mat with a POWDER\\nSNOW image design.\\nPut items on top."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_ATTRACT_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat designed with an ATTRACT image. Put items on top.",
+  "et": "ATTRACT-matt. Pane peale esemeid.",
+  "occ": 62,
+  "raw": "A mat designed with\\nan ATTRACT image.\\nPut items on top."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_FISSURE_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat designed with a FISSURE image. Put items on top.",
+  "et": "FISSURE-matt. Pane peale esemeid.",
+  "occ": 63,
+  "raw": "A mat designed with\\na FISSURE image.\\nPut items on top."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SPIKES_MAT",
+  "box": 0,
+  "kind": "c",
+  "en": "A mat designed with a SPIKES image. Put items on top.",
+  "et": "SPIKES-matt. Pane peale esemeid.",
+  "occ": 64,
+  "raw": "A mat designed with\\na SPIKES image.\\nPut items on top."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_BALL_POSTER",
+  "box": 0,
+  "kind": "c",
+  "en": "A small poster printed with POKé BALLS.",
+  "et": "Väike plakat POKé BALLidega.",
+  "occ": 65,
+  "raw": "A small poster\\nprinted with POKé\\nBALLS."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_GREEN_POSTER",
+  "box": 0,
+  "kind": "c",
+  "en": "A small poster with a TREECKO print.",
+  "et": "Väike plakat TREECKO pildiga.",
+  "occ": 66,
+  "raw": "A small poster with\\na TREECKO print."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_RED_POSTER",
+  "box": 0,
+  "kind": "c",
+  "en": "A small poster with a TORCHIC print.",
+  "et": "Väike plakat TORCHIC pildiga.",
+  "occ": 67,
+  "raw": "A small poster with\\na TORCHIC print."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_BLUE_POSTER",
+  "box": 0,
+  "kind": "c",
+  "en": "A small poster with a MUDKIP print.",
+  "et": "Väike plakat MUDKIP pildiga.",
+  "occ": 68,
+  "raw": "A small poster with\\na MUDKIP print."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_CUTE_POSTER",
+  "box": 0,
+  "kind": "c",
+  "en": "A small poster with an AZURILL print.",
+  "et": "Väike plakat AZURILL pildiga.",
+  "occ": 69,
+  "raw": "A small poster with\\nan AZURILL print."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_PIKA_POSTER",
+  "box": 0,
+  "kind": "c",
+  "en": "A large poster with a PIKACHU and PICHU print.",
+  "et": "Suur plakat PIKACHU ja PICHU pildiga.",
+  "occ": 70,
+  "raw": "A large poster with\\na PIKACHU and\\nPICHU print."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_LONG_POSTER",
+  "box": 0,
+  "kind": "c",
+  "en": "A large poster with a SEVIPER print.",
+  "et": "Suur plakat SEVIPER pildiga.",
+  "occ": 71,
+  "raw": "A large poster with\\na SEVIPER print."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SEA_POSTER",
+  "box": 0,
+  "kind": "c",
+  "en": "A large poster with a RELICANTH print.",
+  "et": "Suur plakat RELICANTH pildiga.",
+  "occ": 72,
+  "raw": "A large poster with\\na RELICANTH print."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SKY_POSTER",
+  "box": 0,
+  "kind": "c",
+  "en": "A large poster with a WINGULL print.",
+  "et": "Suur plakat WINGULL pildiga.",
+  "occ": 73,
+  "raw": "A large poster with\\na WINGULL print."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_KISS_POSTER",
+  "box": 0,
+  "kind": "c",
+  "en": "A large poster with a SMOOCHUM print.",
+  "et": "Suur plakat SMOOCHUM pildiga.",
+  "occ": 74,
+  "raw": "A large poster with\\na SMOOCHUM print."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_PICHU_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A PICHU doll. Place it on a mat or a desk.",
+  "et": "PICHU nukk. Aseta matile või lauale.",
+  "occ": 75,
+  "raw": "A PICHU doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_PIKACHU_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A PIKACHU doll. Place it on a mat or a desk.",
+  "et": "PIKACHU nukk. Aseta matile või lauale.",
+  "occ": 76,
+  "raw": "A PIKACHU doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_MARILL_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A MARILL doll. Place it on a mat or a desk.",
+  "et": "MARILL nukk. Aseta matile või lauale.",
+  "occ": 77,
+  "raw": "A MARILL doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_TOGEPI_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A TOGEPI doll. Place it on a mat or a desk.",
+  "et": "TOGEPI nukk. Aseta matile või lauale.",
+  "occ": 78,
+  "raw": "A TOGEPI doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_CYNDAQUIL_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A CYNDAQUIL doll. Place it on a mat or a desk.",
+  "et": "CYNDAQUIL nukk. Aseta matile või lauale.",
+  "occ": 79,
+  "raw": "A CYNDAQUIL doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_CHIKORITA_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A CHIKORITA doll. Place it on a mat or a desk.",
+  "et": "CHIKORITA nukk. Aseta matile või lauale.",
+  "occ": 80,
+  "raw": "A CHIKORITA doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_TOTODILE_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A TOTODILE doll. Place it on a mat or a desk.",
+  "et": "TOTODILE nukk. Aseta matile või lauale.",
+  "occ": 81,
+  "raw": "A TOTODILE doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_JIGGLYPUFF_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A JIGGLYPUFF doll. Place it on a mat or a desk.",
+  "et": "JIGGLYPUFF nukk. Aseta matile või lauale.",
+  "occ": 82,
+  "raw": "A JIGGLYPUFF doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_MEOWTH_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A MEOWTH doll. Place it on a mat or a desk.",
+  "et": "MEOWTH nukk. Aseta matile või lauale.",
+  "occ": 83,
+  "raw": "A MEOWTH doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_CLEFAIRY_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A CLEFAIRY doll. Place it on a mat or a desk.",
+  "et": "CLEFAIRY nukk. Aseta matile või lauale.",
+  "occ": 84,
+  "raw": "A CLEFAIRY doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_DITTO_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A DITTO doll. Place it on a mat or a desk.",
+  "et": "DITTO nukk. Aseta matile või lauale.",
+  "occ": 85,
+  "raw": "A DITTO doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SMOOCHUM_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A SMOOCHUM doll. Place it on a mat or a desk.",
+  "et": "SMOOCHUM nukk. Aseta matile või lauale.",
+  "occ": 86,
+  "raw": "A SMOOCHUM doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_TREECKO_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A TREECKO doll. Place it on a mat or a desk.",
+  "et": "TREECKO nukk. Aseta matile või lauale.",
+  "occ": 87,
+  "raw": "A TREECKO doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_TORCHIC_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A TORCHIC doll. Place it on a mat or a desk.",
+  "et": "TORCHIC nukk. Aseta matile või lauale.",
+  "occ": 88,
+  "raw": "A TORCHIC doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_MUDKIP_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A MUDKIP doll. Place it on a mat or a desk.",
+  "et": "MUDKIP nukk. Aseta matile või lauale.",
+  "occ": 89,
+  "raw": "A MUDKIP doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_DUSKULL_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A DUSKULL doll. Place it on a mat or a desk.",
+  "et": "DUSKULL nukk. Aseta matile või lauale.",
+  "occ": 90,
+  "raw": "A DUSKULL doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_WYNAUT_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A WYNAUT doll. Place it on a mat or a desk.",
+  "et": "WYNAUT nukk. Aseta matile või lauale.",
+  "occ": 91,
+  "raw": "A WYNAUT doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_BALTOY_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A BALTOY doll. Place it on a mat or a desk.",
+  "et": "BALTOY nukk. Aseta matile või lauale.",
+  "occ": 92,
+  "raw": "A BALTOY doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_KECLEON_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A KECLEON doll. Place it on a mat or a desk.",
+  "et": "KECLEON nukk. Aseta matile või lauale.",
+  "occ": 93,
+  "raw": "A KECLEON doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_AZURILL_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "An AZURILL doll. Place it on a mat or a desk.",
+  "et": "AZURILL nukk. Aseta matile või lauale.",
+  "occ": 94,
+  "raw": "An AZURILL doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SKITTY_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A SKITTY doll. Place it on a mat or a desk.",
+  "et": "SKITTY nukk. Aseta matile või lauale.",
+  "occ": 95,
+  "raw": "A SKITTY doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SWABLU_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A SWABLU doll. Place it on a mat or a desk.",
+  "et": "SWABLU nukk. Aseta matile või lauale.",
+  "occ": 96,
+  "raw": "A SWABLU doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_GULPIN_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A GULPIN doll. Place it on a mat or a desk.",
+  "et": "GULPIN nukk. Aseta matile või lauale.",
+  "occ": 97,
+  "raw": "A GULPIN doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_LOTAD_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A LOTAD doll. Place it on a mat or a desk.",
+  "et": "LOTAD nukk. Aseta matile või lauale.",
+  "occ": 98,
+  "raw": "A LOTAD doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SEEDOT_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A SEEDOT doll. Place it on a mat or a desk.",
+  "et": "SEEDOT nukk. Aseta matile või lauale.",
+  "occ": 99,
+  "raw": "A SEEDOT doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_PIKA_CUSHION",
+  "box": 0,
+  "kind": "c",
+  "en": "A PIKACHU cushion. Place it on a mat or a desk.",
+  "et": "PIKACHU padi. Aseta matile või lauale.",
+  "occ": 100,
+  "raw": "A PIKACHU cushion.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_ROUND_CUSHION",
+  "box": 0,
+  "kind": "c",
+  "en": "A MARILL cushion. Place it on a mat or a desk.",
+  "et": "MARILL padi. Aseta matile või lauale.",
+  "occ": 101,
+  "raw": "A MARILL cushion.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_KISS_CUSHION",
+  "box": 0,
+  "kind": "c",
+  "en": "A SMOOCHUM cushion. Place it on a mat or a desk.",
+  "et": "SMOOCHUM padi. Aseta matile või lauale.",
+  "occ": 102,
+  "raw": "A SMOOCHUM\\ncushion. Place it on\\na mat or a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_ZIGZAG_CUSHION",
+  "box": 0,
+  "kind": "c",
+  "en": "A ZIGZAGOON cushion. Place it on a mat or a desk.",
+  "et": "ZIGZAGOON padi. Aseta matile või lauale.",
+  "occ": 103,
+  "raw": "A ZIGZAGOON\\ncushion. Place it on\\na mat or a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SPIN_CUSHION",
+  "box": 0,
+  "kind": "c",
+  "en": "A SPINDA cushion. Place it on a mat or a desk.",
+  "et": "SPINDA padi. Aseta matile või lauale.",
+  "occ": 104,
+  "raw": "A SPINDA cushion.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_DIAMOND_CUSHION",
+  "box": 0,
+  "kind": "c",
+  "en": "A SABLEYE cushion. Place it on a mat or a desk.",
+  "et": "SABLEYE padi. Aseta matile või lauale.",
+  "occ": 105,
+  "raw": "A SABLEYE cushion.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_BALL_CUSHION",
+  "box": 0,
+  "kind": "c",
+  "en": "A BALL cushion. Place it on a mat or a desk.",
+  "et": "BALL padi. Aseta matile või lauale.",
+  "occ": 106,
+  "raw": "A BALL cushion.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_GRASS_CUSHION",
+  "box": 0,
+  "kind": "c",
+  "en": "A grass-mark cushion. Place it on a mat or a desk.",
+  "et": "Rohumärgi padi. Aseta matile või lauale.",
+  "occ": 107,
+  "raw": "A grass-mark\\ncushion. Place it on\\na mat or a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_FIRE_CUSHION",
+  "box": 0,
+  "kind": "c",
+  "en": "A fire-mark cushion. Place it on a mat or a desk.",
+  "et": "Tulemärgi padi. Aseta matile või lauale.",
+  "occ": 108,
+  "raw": "A fire-mark\\ncushion. Place it on\\na mat or a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_WATER_CUSHION",
+  "box": 0,
+  "kind": "c",
+  "en": "A water-mark cushion. Place it on a mat or a desk.",
+  "et": "Veemärgi padi. Aseta matile või lauale.",
+  "occ": 109,
+  "raw": "A water-mark\\ncushion. Place it on\\na mat or a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_SNORLAX_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A large doll. Place it on a mat or a desk.",
+  "et": "Suur nukk. Aseta matile või lauale.",
+  "occ": 110,
+  "raw": "A large doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_RHYDON_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A large doll. Place it on a mat or a desk.",
+  "et": "Suur nukk. Aseta matile või lauale.",
+  "occ": 111,
+  "raw": "A large doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_LAPRAS_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A large doll. Place it on a mat or a desk.",
+  "et": "Suur nukk. Aseta matile või lauale.",
+  "occ": 112,
+  "raw": "A large doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_VENUSAUR_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A large doll. Place it on a mat or a desk.",
+  "et": "Suur nukk. Aseta matile või lauale.",
+  "occ": 113,
+  "raw": "A large doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_CHARIZARD_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A large doll. Place it on a mat or a desk.",
+  "et": "Suur nukk. Aseta matile või lauale.",
+  "occ": 114,
+  "raw": "A large doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_BLASTOISE_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A large doll. Place it on a mat or a desk.",
+  "et": "Suur nukk. Aseta matile või lauale.",
+  "occ": 115,
+  "raw": "A large doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_WAILMER_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A large doll. Place it on a mat or a desk.",
+  "et": "Suur nukk. Aseta matile või lauale.",
+  "occ": 116,
+  "raw": "A large doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_REGIROCK_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A large doll. Place it on a mat or a desk.",
+  "et": "Suur nukk. Aseta matile või lauale.",
+  "occ": 117,
+  "raw": "A large doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_REGICE_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A large doll. Place it on a mat or a desk.",
+  "et": "Suur nukk. Aseta matile või lauale.",
+  "occ": 118,
+  "raw": "A large doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/data/decoration/description.h",
+  "label": "DecorDesc_REGISTEEL_DOLL",
+  "box": 0,
+  "kind": "c",
+  "en": "A large doll. Place it on a mat or a desk.",
+  "et": "Suur nukk. Aseta matile või lauale.",
+  "occ": 119,
+  "raw": "A large doll.\\nPlace it on a mat\\nor a desk."
+ },
+ {
+  "file": "src/mystery_event_msg.c",
+  "label": "gText_MysteryEventBerry",
+  "box": 0,
+  "kind": "c",
+  "en": "Obtained a {STR_VAR_2} BERRY! Dad has it at PETALBURG GYM.",
+  "et": "Saadud {STR_VAR_2} BERRY! Isa hoiab seda PETALBURG GYMis.",
+  "occ": 0,
+  "raw": "Obtained a {STR_VAR_2} BERRY!\\nDad has it at PETALBURG GYM."
+ },
+ {
+  "file": "src/mystery_event_msg.c",
+  "label": "gText_MysteryEventBerryTransform",
+  "box": 0,
+  "kind": "c",
+  "en": "The {STR_VAR_1} BERRY transformed into one {STR_VAR_2} BERRY.",
+  "et": "{STR_VAR_1} BERRY muutus üheks {STR_VAR_2} BERRY-ks.",
+  "occ": 1,
+  "raw": "The {STR_VAR_1} BERRY transformed into\\none {STR_VAR_2} BERRY."
+ },
+ {
+  "file": "src/mystery_event_msg.c",
+  "label": "gText_MysteryEventBerryObtained",
+  "box": 0,
+  "kind": "c",
+  "en": "The {STR_VAR_1} BERRY has already been obtained.",
+  "et": "{STR_VAR_1} BERRY on juba saadud.",
+  "occ": 2,
+  "raw": "The {STR_VAR_1} BERRY has already been\\nobtained."
+ },
+ {
+  "file": "src/mystery_event_msg.c",
+  "label": "gText_MysteryEventSpecialRibbon",
+  "box": 0,
+  "kind": "c",
+  "en": "A special RIBBON was awarded to your party POKéMON.",
+  "et": "Eriline RIBBON anti sinu seltskonna POKéMONile.",
+  "occ": 3,
+  "raw": "A special RIBBON was awarded to\\nyour party POKéMON."
+ },
+ {
+  "file": "src/mystery_event_msg.c",
+  "label": "gText_MysteryEventNationalDex",
+  "box": 0,
+  "kind": "c",
+  "en": "The POKéDEX has been upgraded with the NATIONAL MODE.",
+  "et": "POKéDEX uuendati NATIONAL MODEga.",
+  "occ": 4,
+  "raw": "The POKéDEX has been upgraded\\nwith the NATIONAL MODE."
+ },
+ {
+  "file": "src/mystery_event_msg.c",
+  "label": "gText_MysteryEventRareWord",
+  "box": 0,
+  "kind": "c",
+  "en": "A rare word has been added.",
+  "et": "Lisati haruldane sõna.",
+  "occ": 5,
+  "raw": "A rare word has been added."
+ },
+ {
+  "file": "src/mystery_event_msg.c",
+  "label": "gText_MysteryEventSentOver",
+  "box": 0,
+  "kind": "c",
+  "en": "{STR_VAR_1} was sent over!",
+  "et": "{STR_VAR_1} saadeti üle!",
+  "occ": 6,
+  "raw": "{STR_VAR_1} was sent over!"
+ },
+ {
+  "file": "src/mystery_event_msg.c",
+  "label": "gText_MysteryEventFullParty",
+  "box": 0,
+  "kind": "c",
+  "en": "Your party is full. {STR_VAR_1} could not be sent over.",
+  "et": "Su seltskond on täis. {STR_VAR_1} ei saanud üle saata.",
+  "occ": 7,
+  "raw": "Your party is full.\\n{STR_VAR_1} could not be sent over."
+ },
+ {
+  "file": "src/mystery_event_msg.c",
+  "label": "gText_MysteryEventNewTrainer",
+  "box": 0,
+  "kind": "c",
+  "en": "A new TRAINER has arrived in HOENN.",
+  "et": "HOENNI on saabunud uus TRAINER.",
+  "occ": 8,
+  "raw": "A new TRAINER has arrived in\\nHOENN."
+ },
+ {
+  "file": "src/mystery_event_msg.c",
+  "label": "gText_MysteryEventNewAdversaryInBattleTower",
+  "box": 0,
+  "kind": "c",
+  "en": "A new adversary has arrived in the BATTLE TOWER.",
+  "et": "BATTLE TOWERISSE on saabunud uus vastane.",
+  "occ": 9,
+  "raw": "A new adversary has arrived in the\\nBATTLE TOWER."
+ },
+ {
+  "file": "src/mystery_event_msg.c",
+  "label": "gText_MysteryEventCantBeUsed",
+  "box": 0,
+  "kind": "c",
+  "en": "This data can't be used in this version.",
+  "et": "Neid andmeid ei saa selles versioonis kasutada.",
+  "occ": 10,
+  "raw": "This data can't be used in\\nthis version."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PokemartSign",
+  "box": 0,
+  "kind": "asm",
+  "en": "“Selected items for your convenience!” POKéMON MART",
+  "et": "“Valitud kaubad teie mugavuseks!” POKéMON MART"
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PokemonCenterSign",
+  "box": 0,
+  "kind": "asm",
+  "en": "“Rejuvenate your tired partners!” POKéMON CENTER",
+  "et": "“Värskenda oma väsinud kaaslasi!” POKéMON CENTER"
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_MomOrDadMightLikeThisProgram",
+  "box": 0,
+  "kind": "asm",
+  "en": "{STR_VAR_1} might like this program. … … … … … … … … … … … … … … … …",
+  "et": "{STR_VAR_1}-le võiks see saade meeldida."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_MomOrDadMightLikeThisProgram",
+  "box": 1,
+  "kind": "asm",
+  "en": "Better get going!",
+  "et": "… … … … … … … … … … … … … … … …"
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_WhichFloorWouldYouLike",
+  "box": 0,
+  "kind": "asm",
+  "en": "Welcome to LILYCOVE DEPARTMENT STORE.",
+  "et": "Tere tulemast LILYCOVE KAUBAMAJJA."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_WhichFloorWouldYouLike",
+  "box": 1,
+  "kind": "asm",
+  "en": "Which floor would you like?",
+  "et": "Millist korrust sooviksid?"
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_SandstormIsVicious",
+  "box": 0,
+  "kind": "asm",
+  "en": "The sandstorm is vicious. It's impossible to keep going.",
+  "et": "Liivatorm on metsik. Edasi on võimatu liikuda."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_SelectWithoutRegisteredItem",
+  "box": 0,
+  "kind": "asm",
+  "en": "An item in the BAG can be registered to SELECT for easy use.",
+  "et": "KOTIS oleva eseme saab registreerida SELECTile, et seda mugavalt kasutada."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PokemonTrainerSchoolEmail",
+  "box": 0,
+  "kind": "asm",
+  "en": "There's an e-mail from POKéMON TRAINER SCHOOL.",
+  "et": "POKéMON TRAINERI KOOLIST on e-kiri."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PokemonTrainerSchoolEmail",
+  "box": 1,
+  "kind": "asm",
+  "en": "… … … … … …",
+  "et": "… … … … … …"
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PokemonTrainerSchoolEmail",
+  "box": 2,
+  "kind": "asm",
+  "en": "A POKéMON may learn up to four moves.",
+  "et": "POKéMON võib õppida kuni neli võtet."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PokemonTrainerSchoolEmail",
+  "box": 3,
+  "kind": "asm",
+  "en": "A TRAINER's expertise is tested on the move sets chosen for POKéMON.",
+  "et": "TRAINERI oskust pannakse proovile POKéMONidele valitud võtete kogumiga."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PokemonTrainerSchoolEmail",
+  "box": 4,
+  "kind": "asm",
+  "en": "… … … … … …",
+  "et": "… … … … … …"
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PlayerHouseBootPC",
+  "box": 0,
+  "kind": "asm",
+  "en": "{PLAYER} booted up the PC.",
+  "et": "{PLAYER} käivitas PC."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PokeblockLinkCanceled",
+  "box": 0,
+  "kind": "asm",
+  "en": "The link was canceled.",
+  "et": "Ühendus katkestati."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_UnusedNicknameReceivedPokemon",
+  "box": 0,
+  "kind": "asm",
+  "en": "Want to give a nickname to the {STR_VAR_2} you received?",
+  "et": "Kas tahad anda hüüdnime {STR_VAR_2}-le, kelle said?"
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PlayerWhitedOut",
+  "box": 0,
+  "kind": "asm",
+  "en": "{PLAYER} is out of usable POKéMON!",
+  "et": "{PLAYER}-l pole enam kasutatavaid POKéMONe!"
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PlayerWhitedOut",
+  "box": 1,
+  "kind": "asm",
+  "en": "{PLAYER} whited out!",
+  "et": "{PLAYER} sai lüüa!"
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_RegisteredTrainerinPokeNav",
+  "box": 0,
+  "kind": "asm",
+  "en": "Registered {STR_VAR_1} {STR_VAR_2} in the POKéNAV.",
+  "et": "{STR_VAR_1} {STR_VAR_2} registreeriti POKéNAVi."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_ComeBackWithSecretPower",
+  "box": 0,
+  "kind": "asm",
+  "en": "Do you know the TM SECRET POWER?",
+  "et": "Kas tead TM-i SECRET POWER?"
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_ComeBackWithSecretPower",
+  "box": 1,
+  "kind": "asm",
+  "en": "Our group, we love the TM SECRET POWER.",
+  "et": "Meie rühm, me armastame TM-i SECRET POWER."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_ComeBackWithSecretPower",
+  "box": 2,
+  "kind": "asm",
+  "en": "One of our members will give it to you. Come back and show me if you get it.",
+  "et": "Üks meie liikmetest annab selle sulle. Tule tagasi ja näita, kui selle saad."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_ComeBackWithSecretPower",
+  "box": 3,
+  "kind": "asm",
+  "en": "We'll accept you as a member and sell you good stuff in secrecy.",
+  "et": "Me võtame su liikmeks ja müüme sulle salaja head kraami."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PokerusExplanation",
+  "box": 0,
+  "kind": "asm",
+  "en": "Your POKéMON may be infected with POKéRUS.",
+  "et": "Su POKéMON võib olla nakatunud POKéRUSesse."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PokerusExplanation",
+  "box": 1,
+  "kind": "asm",
+  "en": "Little is known about the POKéRUS except that they are microscopic lifeforms that attach to POKéMON.",
+  "et": "POKéRUSest teatakse vähe, peale selle, et tegu on mikroskoopiliste eluvormidega, mis POKéMONide külge kinnituvad."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PokerusExplanation",
+  "box": 2,
+  "kind": "asm",
+  "en": "While infected, POKéMON are said to grow exceptionally well.",
+  "et": "Öeldakse, et nakatununa kasvavad POKéMONid erakordselt hästi."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_DoorOpenedFarAway",
+  "box": 0,
+  "kind": "asm",
+  "en": "It sounded as if a door opened somewhere far away.",
+  "et": "Kõlas, nagu avaneks kuskil kaugel uks."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_BigHoleInTheWall",
+  "box": 0,
+  "kind": "asm",
+  "en": "There is a big hole in the wall.",
+  "et": "Seinas on suur auk."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_SorryWirelessClubAdjustments",
+  "box": 0,
+  "kind": "asm",
+  "en": "I'm terribly sorry. The POKéMON WIRELESS CLUB is undergoing adjustments now.",
+  "et": "Mul on kohutavalt kahju. POKéMON WIRELESS CLUBis tehakse praegu häälestusi."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_UndergoingAdjustments",
+  "box": 0,
+  "kind": "asm",
+  "en": "It appears to be undergoing adjustments…",
+  "et": "Näib, et käivad häälestused…"
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_SorryTradeCenterInspections",
+  "box": 0,
+  "kind": "asm",
+  "en": "I'm terribly sorry. The TRADE CENTER is undergoing inspections.",
+  "et": "Mul on kohutavalt kahju. TRADE CENTERis käivad ülevaatused."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_SorryRecordCornerPreparation",
+  "box": 0,
+  "kind": "asm",
+  "en": "I'm terribly sorry. The RECORD CORNER is under preparation.",
+  "et": "Mul on kohutavalt kahju. RECORD CORNERit valmistatakse ette."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PlayerHandedOverTheItem",
+  "box": 0,
+  "kind": "asm",
+  "en": "{PLAYER} handed over the {STR_VAR_1}.",
+  "et": "{PLAYER} andis üle {STR_VAR_1}."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_ThankYouForAccessingMysteryGift",
+  "box": 0,
+  "kind": "asm",
+  "en": "Thank you for accessing the MYSTERY GIFT System.",
+  "et": "Aitäh, et kasutasid MYSTERY GIFT süsteemi."
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_PlayerFoundOneTMHM",
+  "box": 0,
+  "kind": "asm",
+  "en": "{PLAYER} found one {STR_VAR_1} {STR_VAR_2}!",
+  "et": "{PLAYER} leidis ühe {STR_VAR_1} {STR_VAR_2}!"
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_Sudowoodo_Attacked",
+  "box": 0,
+  "kind": "asm",
+  "en": "The weird tree doesn't like the WAILMER PAIL!",
+  "et": "Veidrale puule ei meeldi WAILMER PAIL!"
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_Sudowoodo_Attacked",
+  "box": 1,
+  "kind": "asm",
+  "en": "The weird tree attacked!",
+  "et": "Veider puu ründas!"
+ },
+ {
+  "file": "data/event_scripts.s",
+  "label": "gText_LegendaryFlewAway",
+  "box": 0,
+  "kind": "asm",
+  "en": "The {STR_VAR_1} flew away!",
+  "et": "{STR_VAR_1} lendas minema!"
  }
 ]
