@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """extract.py -- pull pokeemerald English text into a translation worksheet.
 
-Produces tools/translation/et_untranslated.json: a flat list of
+Produces tools/translation/et.json: a flat list of
 {file, label, box, kind, en, et:""} rows, the inverse of writeback.py.
 
 Two text homes in pokeemerald:
@@ -24,8 +24,7 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-OUT = os.path.join(ROOT, "tools", "translation", "et_untranslated.json")
-MEMORY = os.path.join(ROOT, "tools", "translation", "pocketred_et_memory.json")
+OUT = os.path.join(ROOT, "tools", "translation", "et.json")
 
 ASM_DIRS = ("data/text", "data/maps", "data/scripts")
 # Top-level ASM files not under ASM_DIRS (e.g. event_scripts.s).
@@ -258,15 +257,26 @@ def main():
             if os.path.exists(os.path.join(ROOT, rel)):
                 extract_c(rel, rows)
 
-    memory = json.load(open(MEMORY, encoding="utf-8")) if os.path.exists(MEMORY) else {}
-    matched = sum(1 for r in rows if r["en"] in memory)
+    # Merge into et.json, PRESERVING existing translations (keyed by file/label/box).
+    # New boxes come in with et="" for hand-translation; nothing is overwritten.
+    prev = {}
+    if os.path.exists(OUT):
+        for e in json.load(open(OUT, encoding="utf-8")):
+            prev[(e["file"], e["label"], e["box"])] = e
+    kept = 0
+    for r in rows:
+        p = prev.get((r["file"], r["label"], r["box"]))
+        if p is not None and (p.get("et") or ""):
+            r["et"] = p["et"]
+            r["et_src"] = p.get("et_src", "human")
+            kept += 1
+        else:
+            r["et_src"] = ""
     json.dump(rows, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     asm = sum(1 for r in rows if r["kind"] == "asm")
     c = sum(1 for r in rows if r["kind"] == "c")
-    uniq = len({r["en"] for r in rows})
-    print(f"{len(rows)} boxes ({asm} asm, {c} c) -> {os.path.relpath(OUT, ROOT)}")
-    print(f"{uniq} unique strings; {matched} rows have an exact memory match "
-          f"({100*matched/max(1,len(rows)):.1f}%)")
+    print(f"{len(rows)} boxes ({asm} asm, {c} c) -> {os.path.relpath(OUT, ROOT)}; "
+          f"kept {kept} existing translations, {len(rows)-kept} untranslated")
 
 
 if __name__ == "__main__":

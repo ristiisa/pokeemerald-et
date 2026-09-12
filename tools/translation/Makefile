@@ -1,15 +1,15 @@
 # Estonian translation tooling for pokeemerald.
 #
 # Set up once:   make -C tools/translation venv
-# Pipeline:      make -C tools/translation extract      # English -> worksheet
-#                make -C tools/translation translate     # NMT + memory draft
+# Pipeline:      make -C tools/translation extract      # merge new English boxes into et.json
 #                make -C tools/translation fonts          # draw õ/Õ into fonts
-#                make -C tools/translation writeback      # draft -> sources
+#                make -C tools/translation writeback      # et.json -> sources
 # Validate:      make -C tools/translation check          # line widths
 #                make -C tools/translation spell          # et_EE spelling
 #
+# Translations live in et.json (single source of truth, hand-edited).
 # Then build the ROM from the repo root:  gmake modern -j8
-.PHONY: venv extract translate writeback fonts check spell clean-venv
+.PHONY: venv extract writeback fonts check spell clean-venv
 
 PY := .venv/bin/python
 
@@ -22,9 +22,6 @@ venv: .venv/pyvenv.cfg
 
 extract: venv
 	$(PY) extract.py $(ARGS)
-
-translate: venv
-	$(PY) translate.py $(ARGS)
 
 writeback: venv
 	$(PY) writeback.py $(ARGS)

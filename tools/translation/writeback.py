@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""writeback.py -- render et_draft.json translations back into the sources.
+"""writeback.py -- render et.json translations back into the sources.
 
 The inverse of extract.py. For every translated label/string it re-wraps the
 Estonian to the proportional box width (208px; Estonian hyphenation via
@@ -37,38 +37,9 @@ import syllabify
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
 
-# Exact English box -> Estonian overrides applied whole-box over the NMT draft.
-# postedit.json: curated fixes to bad machine translations (highest priority).
-# menus.json: UI-label overrides (glossary keeps all-caps English, wrong for verbs).
-def _load(name):
-    p = os.path.join(HERE, name)
-    d = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
-    return {k: v for k, v in d.items() if not k.startswith("_")}
-
-
-def _load_glob(pattern):
-    """Merge every tools/translation/<pattern> file (later files win)."""
-    import glob
-    out = {}
-    for p in sorted(glob.glob(os.path.join(HERE, pattern))):
-        for k, v in json.load(open(p, encoding="utf-8")).items():
-            if not k.startswith("_"):
-                out[k] = v
-    return out
-
-
-# curated human/Claude translations, split per category (postedit_*.json) plus
-# the base postedit.json -- all merged, highest priority in writeback.
-POSTEDIT = {**_load("postedit.json"), **_load_glob("postedit_*.json")}
-MENUS = _load("menus.json")
-
-
 def et_of(entry):
-    """The Estonian for a box: postedit > menus > NMT draft."""
-    en = entry["en"]
-    if en in POSTEDIT:
-        return POSTEDIT[en]
-    return MENUS.get(en, entry["et"])
+    """The Estonian for a box -- baked directly into et.json (`et` field)."""
+    return entry.get("et", "")
 
 
 # Exact source-string replacements for hand-laid-out strings the flow-wrapper
@@ -367,7 +338,7 @@ def main():
     for flag in ("--from",):
         if flag in sys.argv:
             src = sys.argv[sys.argv.index(flag) + 1]
-    src = src or os.path.join(HERE, "et_draft.json")
+    src = src or os.path.join(HERE, "et.json")
     only = [a for a in sys.argv[1:] if not a.startswith("-")
             and not a.endswith(".json")]
     rows = json.load(open(src, encoding="utf-8"))

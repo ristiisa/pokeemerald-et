@@ -1,108 +1,77 @@
 # Estonian translation tooling
 
-Helpers for translating pokeemerald's text into Estonian, adapted from the
-`pokecrystal-et` / `pocketrgb-en` workflow. All Python, run from a project
-virtualenv. pokeemerald keeps text in two places and both are handled:
+The translation is **one file**: [`et.json`](et.json) — the single source of truth.
+The game's `data/`/`src/` sources are **generated** from it at build time and are
+**not** committed (they stay pristine English in git; `writeback` applies the
+Estonian, then you build).
 
-* **ASM** — `.string "..."` blocks in `data/{text,maps,scripts}/**.inc`.
-* **C** — `_("...")` literals in selected `src/` and `include/` prose files.
+## et.json
 
-Proper-noun NAME tables (species/move/item/ability/type/trainer names) stay
-English by convention and are excluded from extraction.
+A flat list of boxes, each:
 
-## Setup (once)
-
-```bash
-make -C tools/translation venv
+```json
+{ "file": "data/text/foo.inc", "label": "gText_Bar", "box": 0,
+  "kind": "asm", "en": "English text", "et": "Eesti tekst", "et_src": "human" }
 ```
 
-Homebrew's Python is PEP 668 "externally managed", so the deps (`pyphen`,
-`phunspell`, `termcolor`, `pillow`) live in `tools/translation/.venv`
-(git-ignored).
+- keyed by **location** (`file` / `label` / `box`); `en` is the English, `et` the Estonian.
+- `et_src`: `human` (hand/curated), `memory` (pokered reuse), `mt` (leftover machine
+  translation — **suspect quality, to be replaced by hand**), `""` (untranslated → English).
+- ASM boxes are one message window; a label's `\n`/`\l` line breaks are reflowed into
+  one paragraph per box and re-wrapped by `writeback` to the 208px box width.
+- C `_()` strings carry a byte **cap** (`maxlen`) for fixed-size arrays (names,
+  categories); `writeback` skips a translation that would overflow its buffer.
 
-## The loop: extract → translate → writeback → validate → build
+**To translate/fix a box:** edit its `et` in `et.json` (set `et_src` to `human`).
+There is no separate override file — everything lives here.
 
-### 1. extract — English into a worksheet
+`literals.json` is the one exception: exact `"English" → "Estonian"` replacements for
+hand-laid-out strings with absolute `{CLEAR_TO ...}` positioning that must **not** be
+re-wrapped (e.g. the shard-trade board). Applied verbatim by `writeback`.
 
-```bash
-make -C tools/translation extract
-# -> et_untranslated.json : [{file,label,box,kind,en,et:""}]
-```
-
-A label's `.string` fragments concatenate into one stream ending in `$`; `\p`
-splits it into boxes (message windows), `\n`/`\l` are soft line breaks reflowed
-into one paragraph per box. C strings split the same way. Game tokens
-(`{PLAYER}`, `{STR_VAR_1}`, `{PKMN}`, …) are kept verbatim.
-
-### 2. translate — machine-draft via TartuNLP + memory
+## Workflow
 
 ```bash
-make -C tools/translation translate                 # whole worksheet
-make -C tools/translation translate ARGS="--limit 50"   # small trial
+make -C tools/translation venv          # one-time: python venv + deps
+make -C tools/translation extract       # merge NEW English boxes into et.json
+                                        #   (preserves existing et; new boxes get et="")
+make -C tools/translation fonts         # draw õ/Õ etc. into the Latin fonts (once)
+make -C tools/translation writeback     # et.json -> data/ + src/   (add ARGS="--with-c" for C files)
+make -C tools/translation check         # flag .string lines over 208px
+make -C tools/translation spell         # et_EE spellcheck of et fields
+gmake modern -j8                        # build the ROM (from repo root)
 ```
 
-`translate.py` fills each `et`: exact matches from the human-reviewed pokered
-memory (`pocketred_et_memory.json`) win; the rest is drafted by the TartuNLP NMT
-API (https://api.tartunlp.ai). Each `{...}` token and POKéMON/POKé is masked
-before the call and restored after, so the model can't break them; rows whose
-token set still changed are flagged `check`. The **glossary** (`glossary.json`)
-forces element-type roots, fixes word-sense misses, and keeps all-caps
-names/places English. Unique strings are translated once and fanned out; the run
-is resumable. Set `TARTUNLP_API_KEY` for higher rate limits.
-
-The NMT output is a **draft** — review `et` rows before trusting them. To
-re-translate only machine rows after editing the glossary:
+Typical build from a clean checkout:
 
 ```bash
-make -C tools/translation translate ARGS="et_draft.json --out et_draft.json --redo-mt"
+git checkout -- data/ src/                                   # pristine English
+make -C tools/translation writeback ARGS="--with-c"          # apply et.json
+gmake modern -j8
 ```
 
-### 3. fonts — draw the õ/Õ glyphs (once)
+`extract` only needs re-running when you add a **new** source file/target (see
+`ASM_DIRS`/`ASM_FILES`/`C_FILES` in `extract.py`); it merges, never overwrites `et`.
 
-```bash
-make -C tools/translation fonts
-```
+## What's translated
 
-pokeemerald's charmap has ä/ö/ü but not õ; `fix_fonts.py` draws õ/Õ into the
-five Latin font sheets by splicing a tilde onto o/O (reusing the unused ô/Ô
-slots — see `charmap.txt`). Idempotent. š/ž have no caron glyph and fall back to
-s/z via the charmap.
-
-### 4. writeback — bake translations into the sources
-
-```bash
-make -C tools/translation writeback                 # every safe block
-make -C tools/translation writeback ARGS="--dry-run"
-make -C tools/translation writeback ARGS="data/text" # limit to path substrings
-```
-
-`writeback.py` re-wraps each box to the 208px box width (Estonian hyphenation
-via `syllabify`/pyphen), emits `.string` lines (`\n` first break, `\l` after,
-`\p` between boxes, `$` at end), and splices them in — leaving surrounding code
-untouched. Non-charmap punctuation is sanitized (straight quotes → curly, `...`
-→ `…`). Conservative: a block is rewritten only when it is a clean `.string`
-run whose box count matches the translation and every box is non-empty; C arrays
-with a byte cap that would overflow are skipped. Reruns are safe.
-
-### 5. validate + build
-
-```bash
-make -C tools/translation check      # .string lines over 208px
-make -C tools/translation spell      # et_EE spelling of et fields
-gmake modern -j8                     # build the ROM (from repo root)
-```
+Dialogue, descriptions, battle text, menus/UI, Pokédex categories, contest terms,
+type names + Gen 1 move names (reused from `../pocketrgb-en`). **Kept English** by
+convention: Pokémon / trainer / person / place **names**, Gen 2-3 move names, and the
+`mt`-tagged boxes still awaiting hand translation.
 
 ## Files
 
 | file | purpose |
 |---|---|
-| `extract.py` | English ASM/C text → worksheet |
-| `translate.py` | NMT + memory + glossary draft |
-| `writeback.py` | re-wrap & splice translations into sources |
-| `fix_fonts.py` | draw õ/Õ into the Latin fonts |
-| `textwidth.py` | proportional on-screen pixel width (charmap + fonts.c) |
-| `syllabify.py` | Estonian hyphenation (pyphen) |
-| `check_lines.py` | flag over-wide `.string` lines |
-| `spellcheck.py` | et_EE spell-check of `et` fields |
-| `glossary.json` | termbase (types, term fixes, caps overrides) |
-| `pocketred_et_memory.json` | human-reviewed pokered Estonian memory |
+| `et.json` | the translation (single source of truth) |
+| `literals.json` | verbatim replacements for absolute-positioned strings |
+| `extract.py` | English → `et.json` (merge, preserving `et`) |
+| `writeback.py` | `et.json` → sources (re-wrap + splice) |
+| `syllabify.py` / `textwidth.py` | Estonian hyphenation + proportional pixel width |
+| `check_lines.py` / `spellcheck.py` | validation |
+| `fix_fonts.py` | draw õ/Õ into the Latin font PNGs |
+| `GRAPHICS_TODO.md` | remaining text-in-graphics to redraw |
+
+Machine translation (TartuNLP) was tried and abandoned — poor quality; the `mt`-tagged
+`et.json` rows are its leftovers, being replaced by hand. (History in git.)

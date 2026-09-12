@@ -2,11 +2,11 @@
 """spellcheck.py -- Estonian spell-check of the translated `et` fields.
 
 Runs the et_EE Hunspell dictionary over the words of every `et` in a draft
-(default et_draft.json) and prints unknown words in context, so typos are
+(default et.json) and prints unknown words in context, so typos are
 caught before they bake into the ROM. Game tokens ({PLAYER}, {STR_VAR_1}, ...)
 and an ALLOW list of proper nouns are ignored.
 
-Usage:  .venv/bin/python spellcheck.py [et_draft.json] [--limit N]
+Usage:  .venv/bin/python spellcheck.py [et.json] [--limit N]
 """
 import json
 import os
@@ -38,7 +38,7 @@ def main():
     limit = int(sys.argv[sys.argv.index("--limit") + 1]) if "--limit" in sys.argv else 0
     skip = {str(limit)} if limit else set()
     pos = [a for a in sys.argv[1:] if not a.startswith("-") and a not in skip]
-    src = pos[0] if pos else os.path.join(HERE, "et_draft.json")
+    src = pos[0] if pos else os.path.join(HERE, "et.json")
     rows = json.load(open(src, encoding="utf-8"))
     seen, bad_total, shown = set(), 0, 0
     for r in rows:
