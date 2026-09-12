@@ -54,6 +54,8 @@ C_FILES = [
     "src/data/trade.h",
     "src/data/decoration/description.h",
     "src/mystery_event_msg.c",
+    "src/data/text/move_names.h",
+    "src/battle_main.c",
 ]
 # one _() holding one or more adjacent C string literals (they concatenate).
 C_LITERALS = re.compile(r'_\(\s*((?:"(?:[^"\\]|\\.)*"\s*)+)\)', re.S)
@@ -61,10 +63,10 @@ C_LITERALS = re.compile(r'_\(\s*((?:"(?:[^"\\]|\\.)*"\s*)+)\)', re.S)
 # Matched on the literal's own line (individual decls like ExpandedPlaceholder),
 # AND as whole 2D-array byte ranges (name tables whose rows are [IDX]=_("..")
 # and so don't mention the array name) -- see _skip_ranges.
-C_SKIP = re.compile(r"gSpeciesNames|gMoveNames|gAbilityNames|gNatureNames|"
-                    r"gTypeNames|TrainerClassNames|ExpandedPlaceholder")
+C_SKIP = re.compile(r"gSpeciesNames|gAbilityNames|gNatureNames|"
+                    r"TrainerClassNames|ExpandedPlaceholder")
 C_SKIP_ARRAY = re.compile(
-    r"u8\s+\w*(?:SpeciesNames|MoveNames|AbilityNames|NatureNames|TypeNames|"
+    r"u8\s+\w*(?:SpeciesNames|AbilityNames|NatureNames|"
     r"TrainerClassNames)\w*\s*\[[^=]*=\s*\{")
 
 
