@@ -1,0 +1,5 @@
+{
+ "_comment": "Exact source-string replacements for HAND-LAID-OUT strings the flow-wrapper must not touch (battle menu & others using absolute {CLEAR_TO} positioning). writeback.py applies these verbatim: it replaces \"<key>\" with \"<value>\" in the files it processes. Keep control codes ({CLEAR_TO n}, \\n) and adjust columns so the Estonian words don't collide. Names stay English.",
+ "FIGHT{CLEAR_TO 56}BAG\\nPOKéMON{CLEAR_TO 56}RUN": "VÕITLE{CLEAR_TO 56}KOTT\\nPOKéMON{CLEAR_TO 56}PÕGENE",
+ "{CLEAR_TO 10}Wanted item{CLEAR_TO 124}Trade item\\n": "{CLEAR_TO 10}Soovitud{CLEAR_TO 124}Vahetus\\n"
+}

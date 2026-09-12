@@ -152,6 +152,14 @@ SUPER_RE    = A0
 'ä'         = F4
 'ö'         = F5
 'ü'         = F6
+@ Estonian: õ/Õ reuse the unused ô/Ô glyph slots (font redrawn, see tools/translation/fix_fonts.py)
+'Õ'         = 0F
+'õ'         = 24
+@ Estonian loanword letters š/ž have no caron glyph in the font; fall back to plain s/z/S/Z
+'Š'         = CD
+'š'         = E7
+'Ž'         = D4
+'ž'         = EE
 TALL_PLUS   = FC 0C FB
 '$'         = FF
 

@@ -1,0 +1,7 @@
+# Python deps for the Estonian translation tooling.
+# Install into a project venv (Homebrew Python is PEP 668 externally-managed):
+#   python3 -m venv tools/translation/.venv && tools/translation/.venv/bin/pip install -r tools/translation/requirements.txt
+pyphen        # Estonian hyphenation / syllabification for word-wrapping (syllabify.py, wrap.py)
+phunspell     # et_EE Hunspell dictionary for spellcheck.py
+termcolor     # coloured spellcheck output
+pillow        # font glyphs (õ/š/ž) editing + inspection
