@@ -1,5 +1,12 @@
 {
  "_comment": "Exact source-string replacements for HAND-LAID-OUT strings the flow-wrapper must not touch (battle menu & others using absolute {CLEAR_TO} positioning). writeback.py applies these verbatim: it replaces \"<key>\" with \"<value>\" in the files it processes. Keep control codes ({CLEAR_TO n}, \\n) and adjust columns so the Estonian words don't collide. Names stay English.",
  "FIGHT{CLEAR_TO 56}BAG\\nPOKéMON{CLEAR_TO 56}RUN": "VÕITLE{CLEAR_TO 56}KOTT\\nPOKéMON{CLEAR_TO 56}PÕGENE",
- "{CLEAR_TO 10}Wanted item{CLEAR_TO 124}Trade item\\n": "{CLEAR_TO 10}Soovitud{CLEAR_TO 124}Vahetus\\n"
+ "{CLEAR_TO 10}Wanted item{CLEAR_TO 124}Trade item\\n": "{CLEAR_TO 10}Soovitud{CLEAR_TO 124}Vahetus\\n",
+ "Times cleared:{CLEAR 5}{STR_VAR_1}": "Läbitud kordi:{CLEAR 5}{STR_VAR_1}",
+ "PLAYER: {CLEAR 16}{COLOR RED}{SHADOW LIGHT_RED}{PLAYER}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}\\n\\nThis document certifies\\nthat you have successfully\\ncompleted your\\n{STR_VAR_1} POKéDEX.\\n\\n{CLEAR_TO 66}{COLOR RED}{SHADOW LIGHT_RED}GAME FREAK": "PLAYER: {CLEAR 16}{COLOR RED}{SHADOW LIGHT_RED}{PLAYER}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}\\n\\nSee dokument tõendab,\\net oled edukalt\\nläbinud oma\\n{STR_VAR_1} POKéDEXi.\\n\\n{CLEAR_TO 66}{COLOR RED}{SHADOW LIGHT_RED}GAME FREAK",
+ "{CLEAR_TO 83}WIN{CLEAR_TO 128}LOSE{CLEAR_TO 176}DRAW": "{CLEAR_TO 83}VÕIT{CLEAR_TO 128}KAOTUS{CLEAR_TO 176}VIIK",
+ "NAME{CLEAR_TO 60}WANTED{CLEAR_TO 110}OFFER{CLEAR_TO 198}LV.": "NIMI{CLEAR_TO 60}SOOVIB{CLEAR_TO 110}PAKUB{CLEAR_TO 198}LV.",
+ "JAH EI": "JAH\\nEI",
+ "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}Jah Ei": "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}Jah\\nEi",
+ "Metsik": "Metsik "
 }

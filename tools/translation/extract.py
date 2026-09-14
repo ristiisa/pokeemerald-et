@@ -55,6 +55,8 @@ C_FILES = [
     "src/mystery_event_msg.c",
     "src/data/text/move_names.h",
     "src/battle_main.c",
+    "src/mystery_gift_scripts.c",
+    "src/data/region_map/region_map_entries.h",
 ]
 # one _() holding one or more adjacent C string literals (they concatenate).
 C_LITERALS = re.compile(r'_\(\s*((?:"(?:[^"\\]|\\.)*"\s*)+)\)', re.S)
