@@ -46274,7 +46274,7 @@
   "box": 1,
   "kind": "asm",
   "en": "It ended up wasting this many POKé BALLS: {STR_VAR_2}!",
-  "et": "Ja raisku läks nii mitu POKé BALLi: {STR_VAR_2}!",
+  "et": "Ja raisku läks nii mitu POKé PALLI: {STR_VAR_2}!",
   "et_src": "human"
  },
  {
@@ -46301,7 +46301,7 @@
   "box": 1,
   "kind": "asm",
   "en": "It ended up wasting this many POKé BALLS: {STR_VAR_2}!",
-  "et": "Ja raisku läks nii mitu POKé BALLi: {STR_VAR_2}!",
+  "et": "Ja raisku läks nii mitu POKé PALLI: {STR_VAR_2}!",
   "et_src": "human"
  },
  {
@@ -46517,7 +46517,7 @@
   "box": 0,
   "kind": "asm",
   "en": "BIG BRO: The TRAINER had to throw this many POKé BALLS to catch it: {STR_VAR_3}!",
-  "et": "SUUR VEND: TRAINER pidi selle püüdmiseks viskama nii mitu POKé BALLi: {STR_VAR_3}!",
+  "et": "SUUR VEND: TRAINER pidi selle püüdmiseks viskama nii mitu POKé PALLI: {STR_VAR_3}!",
   "et_src": "human"
  },
  {
@@ -46562,7 +46562,7 @@
   "box": 0,
   "kind": "asm",
   "en": "BIG SIS: {STR_VAR_1}'s {STR_VAR_2} is a memorable POKéMON because it took an invaluable MASTER BALL to catch!",
-  "et": "SUUR ÕDE: {STR_VAR_1} POKéMON {STR_VAR_2} on meeldejääv, sest tema püüdmiseks läks käiku hindamatu MASTER BALL!",
+  "et": "SUUR ÕDE: {STR_VAR_1} POKéMON {STR_VAR_2} on meeldejääv, sest tema püüdmiseks läks käiku hindamatu MASTER PALL!",
   "et_src": "human"
  },
  {
@@ -48029,7 +48029,7 @@
   "box": 0,
   "kind": "asm",
   "en": "In the battle, the number of POKé BALLS thrown by the TRAINER was {STR_VAR_1}.",
-  "et": "Lahingu jooksul viskas TRAINER tervelt {STR_VAR_1} POKé BALLi.",
+  "et": "Lahingu jooksul viskas TRAINER tervelt {STR_VAR_1} POKé PALLI.",
   "et_src": "human"
  },
  {
@@ -48164,7 +48164,7 @@
   "box": 0,
   "kind": "asm",
   "en": "However, {STR_VAR_1} seemed to run out of POKé BALLS.",
-  "et": "Ent {STR_VAR_1} sai vist POKé BALLid otsa.",
+  "et": "Ent {STR_VAR_1} sai vist POKé PALLID otsa.",
   "et_src": "human"
  },
  {
@@ -49001,7 +49001,7 @@
   "box": 0,
   "kind": "asm",
   "en": "FANS: Their cool way of throwing POKé BALLS!",
-  "et": "FÄNNID: See lahe viis, kuidas ta POKé BALLe viskab!",
+  "et": "FÄNNID: See lahe viis, kuidas ta POKé PALLE viskab!",
   "et_src": "human"
  },
  {
@@ -51485,7 +51485,7 @@
   "box": 1,
   "kind": "asm",
   "en": "REPORTER: All right, mates! Tossing them SAFARI BALLS, are you?",
-  "et": "REPORTER: Tere, sõbrad! Loobite siis neid SAFARI BALLe, mis?",
+  "et": "REPORTER: Tere, sõbrad! Loobite siis neid SAFARI PALLE, mis?",
   "et_src": "human"
  },
  {
@@ -52619,7 +52619,7 @@
   "box": 0,
   "kind": "asm",
   "en": "The last time we battled, didn't you throw a POKé BALL at us?",
-  "et": "Eelmisel korral, kui võitlesime, kas sa ei visanud meie pihta mitte POKé BALLi?",
+  "et": "Eelmisel korral, kui võitlesime, kas sa ei visanud meie pihta mitte POKé PALLI?",
   "et_src": "human"
  },
  {
@@ -53105,7 +53105,7 @@
   "box": 0,
   "kind": "asm",
   "en": "There's only one thing to be said. Don't you dare throw a POKé BALL during a TRAINER battle!",
-  "et": "Üht asja tuleb siiski öelda. Ära julge TRAINERI lahingu ajal POKé BALLi visata!",
+  "et": "Üht asja tuleb siiski öelda. Ära julge TRAINERI lahingu ajal POKé PALLI visata!",
   "et_src": "human"
  },
  {
@@ -57317,7 +57317,7 @@
   "box": 0,
   "kind": "asm",
   "en": "DEVON's new products, the REPEAT BALL and TIMER BALL, have become hugely popular among TRAINERS.",
-  "et": "DEVONi uued tooted REPEAT BALL ja TIMER BALL on TRAINERITE seas ülipopulaarseks saanud.",
+  "et": "DEVONi uued tooted REPEAT PALL ja TIMER PALL on TRAINERITE seas ülipopulaarseks saanud.",
   "et_src": "human"
  },
  {
@@ -59009,7 +59009,7 @@
   "box": 0,
   "kind": "asm",
   "en": "It's a big POKé BALL carved from a black stone.",
-  "et": "See on suur mustast kivist raiutud POKé BALL.",
+  "et": "See on suur mustast kivist raiutud POKé PALL.",
   "et_src": "human"
  },
  {
@@ -62186,7 +62186,7 @@
   "box": 0,
   "kind": "asm",
   "en": "The NEST BALL works better on weakened POKéMON.",
-  "et": "NEST BALL toimib paremini nõrgestatud POKéMONide peal.",
+  "et": "NEST PALL toimib paremini nõrgestatud POKéMONide peal.",
   "et_src": "human"
  },
  {
@@ -67577,7 +67577,7 @@
   "box": 0,
   "kind": "asm",
   "en": "If you're going to throw a POKé BALL, weaken the wild POKéMON first.",
-  "et": "Kui kavatsed POKé BALLi visata, nõrgesta metsik POKéMON kõigepealt ära.",
+  "et": "Kui kavatsed POKé PALLI visata, nõrgesta metsik POKéMON kõigepealt ära.",
   "et_src": "human"
  },
  {
@@ -67604,7 +67604,7 @@
   "box": 1,
   "kind": "asm",
   "en": "You should throw POKé BALLS only at wild POKéMON.",
-  "et": "POKé BALLi tohib visata ainult metsikute POKéMONide pihta.",
+  "et": "POKé PALLI tohib visata ainult metsikute POKéMONide pihta.",
   "et_src": "human"
  },
  {
@@ -69890,7 +69890,7 @@
   "box": 3,
   "kind": "asm",
   "en": "I know! As my thanks, I'll give you another GREAT BALL!",
-  "et": "Ma tean! Tänuks annan ma sulle veel ühe GREAT BALLi!",
+  "et": "Ma tean! Tänuks annan ma sulle veel ühe SUPER PALLI!",
   "et_src": "human"
  },
  {
@@ -69899,7 +69899,7 @@
   "box": 0,
   "kind": "asm",
   "en": "You're loaded with items. I can't give you this GREAT BALL.",
-  "et": "Su kotis pole enam ruumi. Ma ei saa sulle seda GREAT BALLi anda.",
+  "et": "Su kotis pole enam ruumi. Ma ei saa sulle seda SUPER PALLI anda.",
   "et_src": "human"
  },
  {
@@ -71528,7 +71528,7 @@
   "box": 1,
   "kind": "asm",
   "en": "DAD: Hm. I'll give you a POKé BALL, too. Go for it!",
-  "et": "ISA: Hm. Ma annan sulle ka POKé BALLi. Anna minna!",
+  "et": "ISA: Hm. Ma annan sulle ka POKé PALLI. Anna minna!",
   "et_src": "human"
  },
  {
@@ -71537,7 +71537,7 @@
   "box": 2,
   "kind": "asm",
   "en": "WALLY received a POKé BALL!",
-  "et": "WALLY sai POKé BALLi!",
+  "et": "WALLY sai POKé PALLI!",
   "et_src": "human"
  },
  {
@@ -73490,7 +73490,7 @@
   "box": 0,
   "kind": "asm",
   "en": "It's not easy throwing POKé BALLS while hanging on to an inner tube!",
-  "et": "Pole sugugi lihtne POKé BALLi visata, kui pead ujumisrõngast kinni hoidma!",
+  "et": "Pole sugugi lihtne POKé PALLI visata, kui pead ujumisrõngast kinni hoidma!",
   "et_src": "human"
  },
  {
@@ -75371,7 +75371,7 @@
   "box": 0,
   "kind": "asm",
   "en": "{PLAYER} checked the POKé BALL.",
-  "et": "{PLAYER} uuris POKé BALLi.",
+  "et": "{PLAYER} uuris POKé PALLI.",
   "et_src": "human"
  },
  {
@@ -75389,7 +75389,7 @@
   "box": 2,
   "kind": "asm",
   "en": "Take the POKé BALL?",
-  "et": "Kas võtta POKé BALL?",
+  "et": "Kas võtta POKé PALL?",
   "et_src": "human"
  },
  {
@@ -75416,7 +75416,7 @@
   "box": 0,
   "kind": "asm",
   "en": "{PLAYER} left the POKé BALL where it was.",
-  "et": "{PLAYER} jättis POKé BALLi sinnapaika.",
+  "et": "{PLAYER} jättis POKé PALLI sinnapaika.",
   "et_src": "human"
  },
  {
@@ -75479,7 +75479,7 @@
   "box": 6,
   "kind": "asm",
   "en": "I want you to take the POKé BALL on the desk.",
-  "et": "Tahan, et võtaksid laualt selle POKé BALLi.",
+  "et": "Tahan, et võtaksid laualt selle POKé PALLI.",
   "et_src": "human"
  },
  {
@@ -79925,7 +79925,7 @@
   "box": 6,
   "kind": "asm",
   "en": "Recently, our company developed a new kind of POKé BALL.",
-  "et": "Hiljuti töötas meie firma välja uut sorti POKé BALLi.",
+  "et": "Hiljuti töötas meie firma välja uut sorti POKé PALLI.",
   "et_src": "human"
  },
  {
@@ -79943,7 +79943,7 @@
   "box": 0,
   "kind": "asm",
   "en": "Our new POKé BALL will be available at the POKéMON MART in RUSTBORO.",
-  "et": "Meie uus POKé BALL tuleb müügile RUSTBORO POKéPOES.",
+  "et": "Meie uus POKé PALL tuleb müügile RUSTBORO POKéPOES.",
   "et_src": "human"
  },
  {
@@ -79961,7 +79961,7 @@
   "box": 0,
   "kind": "asm",
   "en": "Your BAG is jam-packed. I can't give you this REPEAT BALL.",
-  "et": "Su KOTT on puupüsti täis. Ma ei saa sulle seda REPEAT BALLi anda.",
+  "et": "Su KOTT on puupüsti täis. Ma ei saa sulle seda REPEAT PALLI anda.",
   "et_src": "human"
  },
  {
@@ -79970,7 +79970,7 @@
   "box": 0,
   "kind": "asm",
   "en": "As a token of our appreciation for your delivering our package, I have a gift of a new kind of POKé BALL for our most wonderful TRAINER!",
-  "et": "Tänutäheks paki kohaletoimetamise eest on mul meie kõige imelisemale TRAINERILE kinkida uut sorti POKé BALL!",
+  "et": "Tänutäheks paki kohaletoimetamise eest on mul meie kõige imelisemale TRAINERILE kinkida uut sorti POKé PALL!",
   "et_src": "human"
  },
  {
@@ -82922,7 +82922,7 @@
   "box": 1,
   "kind": "asm",
   "en": "Sell one GREAT BALL and buy one POTION. How much money remains?",
-  "et": "Müü üks GREAT BALL ja osta üks POTION. Kui palju raha jääb alles?",
+  "et": "Müü üks SUPER PALL ja osta üks POTION. Kui palju raha jääb alles?",
   "et_src": "human"
  },
  {
@@ -85226,7 +85226,7 @@
   "box": 0,
   "kind": "asm",
   "en": "Fufufufu… Watch me levitate a POKé BALL telekinetically!",
-  "et": "Fufufufu… Vaata, kuidas ma POKé BALLi telekineetiliselt hõljutan!",
+  "et": "Fufufufu… Vaata, kuidas ma POKé PALLI telekineetiliselt hõljutan!",
   "et_src": "human"
  },
  {
@@ -85262,7 +85262,7 @@
   "box": 0,
   "kind": "asm",
   "en": "A POKé BALL was too heavy to lift psychically. But this dust bunny…",
-  "et": "POKé BALL oli liiga raske, et seda vaimujõuga tõsta. Aga see tolmupall…",
+  "et": "POKé PALL oli liiga raske, et seda vaimujõuga tõsta. Aga see tolmupall…",
   "et_src": "human"
  },
  {
@@ -91895,7 +91895,7 @@
   "box": 2,
   "kind": "asm",
   "en": "I know, I'll give you a GREAT BALL as my thanks!",
-  "et": "Tead mis, ma annan sulle tänutäheks ühe GREAT BALLi!",
+  "et": "Tead mis, ma annan sulle tänutäheks ühe SUPER PALLI!",
   "et_src": "human"
  },
  {
@@ -91922,7 +91922,7 @@
   "box": 0,
   "kind": "asm",
   "en": "You're loaded with items. I can't give you this GREAT BALL.",
-  "et": "Su kott on esemeid täis. Ma ei saa sulle seda GREAT BALLi anda.",
+  "et": "Su kott on esemeid täis. Ma ei saa sulle seda SUPER PALLI anda.",
   "et_src": "human"
  },
  {
@@ -91958,7 +91958,7 @@
   "box": 0,
   "kind": "asm",
   "en": "I caught a bunch of POKéMON. Now I'm out of POKé BALLS.",
-  "et": "Ma püüdsin hulga POKéMONe. Nüüd on mul POKé BALLid otsas.",
+  "et": "Ma püüdsin hulga POKéMONe. Nüüd on mul POKé PALLID otsas.",
   "et_src": "human"
  },
  {
@@ -94793,7 +94793,7 @@
   "box": 1,
   "kind": "asm",
   "en": "POKéMON are to be caught using POKé BALLS.",
-  "et": "POKéMONe püütakse POKé BALLidega.",
+  "et": "POKéMONe püütakse POKé PALLIDEGA.",
   "et_src": "human"
  },
  {
@@ -102056,7 +102056,7 @@
   "box": 2,
   "kind": "asm",
   "en": "If I find any cute POKéMON, I'll catch them with POKé BALLS!",
-  "et": "Kui leian mõne nunnu POKéMONi, püüan ta POKé BALLidega kinni!",
+  "et": "Kui leian mõne nunnu POKéMONi, püüan ta POKé PALLIDEGA kinni!",
   "et_src": "human"
  },
  {
@@ -102119,7 +102119,7 @@
   "box": 2,
   "kind": "asm",
   "en": "If I find any cool POKéMON, you bet I'll try to get them with POKé BALLS.",
-  "et": "Kui leian mõne ägeda POKéMONi, siis kindel see, et püüan ta POKé BALLidega kinni.",
+  "et": "Kui leian mõne ägeda POKéMONi, siis kindel see, et püüan ta POKé PALLIDEGA kinni.",
   "et_src": "human"
  },
  {
@@ -107087,7 +107087,7 @@
   "box": 1,
   "kind": "asm",
   "en": "In my BAG! There's a POKé BALL!",
-  "et": "Mu KOTIS! Seal on POKé BALL!",
+  "et": "Mu KOTIS! Seal on POKé PALL!",
   "et_src": "human"
  },
  {
@@ -112523,7 +112523,7 @@
   "box": 1,
   "kind": "asm",
   "en": "We sell a variety of goods including POKé BALLS for catching POKéMON.",
-  "et": "Meil on müügil igasugust kaupa, nende hulgas POKé BALLid POKéMONide püüdmiseks.",
+  "et": "Meil on müügil igasugust kaupa, nende hulgas POKé PALLID POKéMONide püüdmiseks.",
   "et_src": "human"
  },
  {
@@ -115952,7 +115952,7 @@
   "box": 0,
   "kind": "asm",
   "en": "The NET and DIVE BALLS are rare POKé BALLS that are only made in MOSSDEEP.",
-  "et": "NET ja DIVE BALL on haruldased POKé BALLid, mida tehakse ainult MOSSDEEPIS.",
+  "et": "NET ja DIVE PALL on haruldased POKé PALLID, mida tehakse ainult MOSSDEEPIS.",
   "et_src": "human"
  },
  {
@@ -115961,7 +115961,7 @@
   "box": 1,
   "kind": "asm",
   "en": "A NET BALL is effective against BUG-type and WATER-type POKéMON.",
-  "et": "NET BALL on tõhus PUTUKA-tüüpi ja VEE-tüüpi POKéMONide vastu.",
+  "et": "NET PALL on tõhus PUTUKA-tüüpi ja VEE-tüüpi POKéMONide vastu.",
   "et_src": "human"
  },
  {
@@ -115970,7 +115970,7 @@
   "box": 2,
   "kind": "asm",
   "en": "A DIVE BALL works best on POKéMON at the bottom of the sea.",
-  "et": "DIVE BALL mõjub kõige paremini merepõhjas elavate POKéMONide peal.",
+  "et": "DIVE PALL mõjub kõige paremini merepõhjas elavate POKéMONide peal.",
   "et_src": "human"
  },
  {
@@ -118661,7 +118661,7 @@
   "box": 0,
   "kind": "asm",
   "en": "The clerk says they're all sold out. I can't buy any POKé BALLS.",
-  "et": "Müüja ütleb, et need on kõik välja müüdud. Ma ei saa ühtki POKé BALLi osta.",
+  "et": "Müüja ütleb, et need on kõik välja müüdud. Ma ei saa ühtki POKé PALLI osta.",
   "et_src": "human"
  },
  {
@@ -118670,7 +118670,7 @@
   "box": 0,
   "kind": "asm",
   "en": "I'm going to buy a bunch of POKé BALLS and catch a bunch of POKéMON!",
-  "et": "Ostan terve hunniku POKé BALLi ja püüan hulga POKéMONe!",
+  "et": "Ostan terve hunniku POKé PALLI ja püüan hulga POKéMONe!",
   "et_src": "human"
  },
  {
@@ -119273,7 +119273,7 @@
   "box": 0,
   "kind": "asm",
   "en": "That reminds me… I can't remember where I put the MASTER BALL.",
-  "et": "See tuletab meelde… Ma ei mäleta, kuhu ma MASTER BALLi panin.",
+  "et": "See tuletab meelde… Ma ei mäleta, kuhu ma MASTER PALLI panin.",
   "et_src": "human"
  },
  {
@@ -123116,7 +123116,7 @@
   "box": 0,
   "kind": "asm",
   "en": "A GREAT BALL is better than a POKé BALL at catching POKéMON.",
-  "et": "GREAT BALL püüab POKéMONe paremini kui POKé BALL.",
+  "et": "SUPER PALL püüab POKéMONe paremini kui POKé PALL.",
   "et_src": "human"
  },
  {
@@ -124052,7 +124052,7 @@
   "box": 3,
   "kind": "asm",
   "en": "“Recently, DEVON has begun marketing tools for POKéMON TRAINERS, including POKé BALLS and POKéNAV systems.”",
-  "et": "„Viimasel ajal on DEVON hakanud POKéMON TRAINERITELE müüma abivahendeid, sealhulgas POKé BALLe ja POKéNAV-süsteeme.”",
+  "et": "„Viimasel ajal on DEVON hakanud POKéMON TRAINERITELE müüma abivahendeid, sealhulgas POKé PALLE ja POKéNAV-süsteeme.”",
   "et_src": "human"
  },
  {
@@ -129209,7 +129209,7 @@
   "box": 0,
   "kind": "asm",
   "en": "I'm developing new kinds of POKé BALLS…",
-  "et": "Ma arendan uut sorti POKé BALL…",
+  "et": "Ma arendan uut sorti POKé PALL…",
   "et_src": "human"
  },
  {
@@ -129227,7 +129227,7 @@
   "box": 0,
   "kind": "asm",
   "en": "We finally made new kinds of POKé BALLS!",
-  "et": "Me saime lõpuks valmis uut sorti POKé BALL!",
+  "et": "Me saime lõpuks valmis uut sorti POKé PALL!",
   "et_src": "human"
  },
  {
@@ -129236,7 +129236,7 @@
   "box": 1,
   "kind": "asm",
   "en": "The REPEAT BALL makes it easier to catch POKéMON you've caught before.",
-  "et": "REPEAT BALLiga on kergem püüda POKéMONe, keda oled juba varem püüdnud.",
+  "et": "REPEAT PALLIGA on kergem püüda POKéMONe, keda oled juba varem püüdnud.",
   "et_src": "human"
  },
  {
@@ -129245,7 +129245,7 @@
   "box": 2,
   "kind": "asm",
   "en": "The TIMER BALL gets better at catching POKéMON the longer a battle runs.",
-  "et": "TIMER BALL püüab seda paremini, mida kauem lahing kestab.",
+  "et": "TIMER PALL püüab seda paremini, mida kauem lahing kestab.",
   "et_src": "human"
  },
  {
@@ -129794,7 +129794,7 @@
   "box": 0,
   "kind": "asm",
   "en": "It's {RIVAL}'s POKé BALL!",
-  "et": "See on {RIVAL} POKé BALL!",
+  "et": "See on {RIVAL} POKé PALL!",
   "et_src": "human"
  },
  {
@@ -136463,7 +136463,7 @@
   "box": 0,
   "kind": "asm",
   "en": "You've run out of SAFARI BALLS. Your SAFARI Game is over.",
-  "et": "Su SAFARI BALLid said otsa. Sinu SAFARI Mäng on lõppenud.",
+  "et": "Su SAFARI PALLID said otsa. Sinu SAFARI Mäng on lõppenud.",
   "et_src": "human"
  },
  {
@@ -136571,7 +136571,7 @@
   "box": 0,
   "kind": "asm",
   "en": "When you enter the SAFARI ZONE, you start with 30 SAFARI BALLS for catching POKéMON.",
-  "et": "Kui SAFARI ZONE alale astud, saad POKéMONide püüdmiseks 30 SAFARI BALLi.",
+  "et": "Kui SAFARI ZONE alale astud, saad POKéMONide püüdmiseks 30 SAFARI PALLI.",
   "et_src": "human"
  },
  {
@@ -136580,7 +136580,7 @@
   "box": 1,
   "kind": "asm",
   "en": "The SAFARI Game is over when you run out of SAFARI BALLS, or when you've walked 500 steps.",
-  "et": "SAFARI Mäng lõpeb, kui su SAFARI BALLid otsa saavad või kui oled kõndinud 500 sammu.",
+  "et": "SAFARI Mäng lõpeb, kui su SAFARI PALLID otsa saavad või kui oled kõndinud 500 sammu.",
   "et_src": "human"
  },
  {
@@ -136643,7 +136643,7 @@
   "box": 0,
   "kind": "asm",
   "en": "Here are your SAFARI BALLS.",
-  "et": "Siin on su SAFARI BALLid.",
+  "et": "Siin on su SAFARI PALLID.",
   "et_src": "human"
  },
  {
@@ -136652,7 +136652,7 @@
   "box": 0,
   "kind": "asm",
   "en": "{PLAYER} received 30 SAFARI BALLS.",
-  "et": "{PLAYER} sai 30 SAFARI BALLi.",
+  "et": "{PLAYER} sai 30 SAFARI PALLI.",
   "et_src": "human"
  },
  {
@@ -136751,7 +136751,7 @@
   "box": 1,
   "kind": "asm",
   "en": "I'll take back your remaining SAFARI BALLS.",
-  "et": "Ma võtan su ülejäänud SAFARI BALLid tagasi.",
+  "et": "Ma võtan su ülejäänud SAFARI PALLID tagasi.",
   "et_src": "human"
  },
  {
@@ -136940,7 +136940,7 @@
   "box": 1,
   "kind": "asm",
   "en": "You can improve your chances of making a catch by getting closer to them before throwing a SAFARI BALL.",
-  "et": "Püügišansse saab parandada, kui minna neile enne SAFARI BALLi viskamist lähemale.",
+  "et": "Püügišansse saab parandada, kui minna neile enne SAFARI PALLI viskamist lähemale.",
   "et_src": "human"
  },
  {
@@ -137057,7 +137057,7 @@
   "box": 0,
   "kind": "asm",
   "en": "I only have a couple SAFARI BALLS left.",
-  "et": "Mul on jäänud vaid paar SAFARI BALLi.",
+  "et": "Mul on jäänud vaid paar SAFARI PALLI.",
   "et_src": "human"
  },
  {
@@ -140525,7 +140525,7 @@
   "box": 0,
   "kind": "c",
   "en": "POKé BALLS",
-  "et": "POKé BALLS",
+  "et": "POKé PALLID",
   "occ": 231,
   "raw": "POKé BALLS",
   "et_src": "keep"
@@ -141207,7 +141207,7 @@
   "box": 0,
   "kind": "c",
   "en": "I'll throw in a PREMIER BALL, too.{PAUSE_UNTIL_PRESS}",
-  "et": "Panen kaasa ka PREMIER BALLi.{PAUSE_UNTIL_PRESS}",
+  "et": "Panen kaasa ka PREMIER PALLI.{PAUSE_UNTIL_PRESS}",
   "occ": 293,
   "raw": "I'll throw in a PREMIER BALL, too.{PAUSE_UNTIL_PRESS}",
   "et_src": "human"
@@ -145046,7 +145046,7 @@
   "box": 0,
   "kind": "c",
   "en": "POKé BALLS",
-  "et": "POKé BALLS",
+  "et": "POKé PALLID",
   "occ": 636,
   "raw": "POKé BALLS",
   "et_src": "keep"
@@ -154025,7 +154025,7 @@
   "box": 0,
   "kind": "c",
   "en": "SAFARI BALLS Stock: {STR_VAR_1}",
-  "et": "SAFARI BALLS varu: {STR_VAR_1}",
+  "et": "SAFARI PALLID varu: {STR_VAR_1}",
   "occ": 1446,
   "raw": "SAFARI BALLS\\nStock: {STR_VAR_1}",
   "et_src": "human"
@@ -157237,7 +157237,7 @@
   "box": 0,
   "kind": "c",
   "en": "POKé BALLS",
-  "et": "POKé BALLS",
+  "et": "POKé PALLID",
   "occ": 1732,
   "raw": "POKé BALLS",
   "et_src": "keep"
@@ -161219,7 +161219,7 @@
   "box": 0,
   "kind": "c",
   "en": "{PLAY_SE SE_DING_DONG}ANNOUNCER: You're out of SAFARI BALLS! Game over!",
-  "et": "{PLAY_SE SE_DING_DONG}TEADUSTAJA: SAFARI BALLid on otsas! Mäng läbi!",
+  "et": "{PLAY_SE SE_DING_DONG}TEADUSTAJA: SAFARI PALLID on otsas! Mäng läbi!",
   "occ": 323,
   "raw": "{PLAY_SE SE_DING_DONG}ANNOUNCER: You're out of\\nSAFARI BALLS! Game over!\\p",
   "et_src": "human"
@@ -162704,7 +162704,7 @@
   "box": 0,
   "kind": "c",
   "en": "{HIGHLIGHT DARK_GRAY}SAFARI BALLS",
-  "et": "{HIGHLIGHT DARK_GRAY}SAFARI BALLS",
+  "et": "{HIGHLIGHT DARK_GRAY}SAFARI PALLID",
   "occ": 445,
   "raw": "{HIGHLIGHT DARK_GRAY}SAFARI BALLS",
   "et_src": "keep"
@@ -172061,7 +172061,7 @@
   "box": 0,
   "kind": "c",
   "en": "A better BALL with a higher catch rate than a GREAT BALL.",
-  "et": "Parem BALL, mille püügimäär ületab GREAT BALLi.",
+  "et": "Parem BALL, mille püügimäär ületab SUPER PALLI.",
   "occ": 2,
   "raw": "A better BALL with\\na higher catch rate\\nthan a GREAT BALL.",
   "et_src": "human"
@@ -172072,7 +172072,7 @@
   "box": 0,
   "kind": "c",
   "en": "A good BALL with a higher catch rate than a POKé BALL.",
-  "et": "Hea BALL, mille püügimäär ületab POKé BALLi.",
+  "et": "Hea BALL, mille püügimäär ületab POKé PALLI.",
   "occ": 3,
   "raw": "A good BALL with a\\nhigher catch rate\\nthan a POKé BALL.",
   "et_src": "human"
@@ -181908,7 +181908,7 @@
   "box": 0,
   "kind": "c",
   "en": "It bears an uncanny and unexplained resemblance to a POKé BALL. Because it explodes at the slightest shock, even veteran TRAINERS treat it with caution.",
-  "et": "Ta sarnaneb kummaliselt ja seletamatult POKé BALLiga. Kuna ta plahvatab vähimagi põrutuse peale, kohtlevad isegi kogenud TRAINERid teda ettevaatusega.",
+  "et": "Ta sarnaneb kummaliselt ja seletamatult POKé PALLIGA. Kuna ta plahvatab vähimagi põrutuse peale, kohtlevad isegi kogenud TRAINERid teda ettevaatusega.",
   "occ": 100,
   "raw": "It bears an uncanny and unexplained\\nresemblance to a POKé BALL. Because it\\nexplodes at the slightest shock, even\\nveteran TRAINERS treat it with caution.",
   "et_src": "human"
@@ -192561,7 +192561,7 @@
   "box": 0,
   "kind": "c",
   "en": "A small desk built in the shape of a POKé BALL.",
-  "et": "Väike laud POKé BALLi kujul.",
+  "et": "Väike laud POKé PALLI kujul.",
   "occ": 1,
   "raw": "A small desk built in\\nthe shape of a POKé\\nBALL.",
   "et_src": "human"
@@ -192660,7 +192660,7 @@
   "box": 0,
   "kind": "c",
   "en": "A small chair built in the shape of a POKé BALL.",
-  "et": "Väike tool POKé BALLi kujul.",
+  "et": "Väike tool POKé PALLI kujul.",
   "occ": 10,
   "raw": "A small chair built\\nin the shape of a\\nPOKé BALL.",
   "et_src": "human"
@@ -193265,7 +193265,7 @@
   "box": 0,
   "kind": "c",
   "en": "A small poster printed with POKé BALLS.",
-  "et": "Väike plakat POKé BALLidega.",
+  "et": "Väike plakat POKé PALLIDEGA.",
   "occ": 65,
   "raw": "A small poster\\nprinted with POKé\\nBALLS.",
   "et_src": "human"
