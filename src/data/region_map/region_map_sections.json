@@ -2,7 +2,7 @@
   "map_sections": [
     {
       "id": "MAPSEC_LITTLEROOT_TOWN",
-      "name": "LITTLEROOT TOWN",
+      "name": "LITTLEROOT LINN",
       "x": 4,
       "y": 11,
       "width": 1,
@@ -10,7 +10,7 @@
     },
     {
       "id": "MAPSEC_OLDALE_TOWN",
-      "name": "OLDALE TOWN",
+      "name": "OLDALE LINN",
       "x": 4,
       "y": 9,
       "width": 1,
@@ -18,7 +18,7 @@
     },
     {
       "id": "MAPSEC_DEWFORD_TOWN",
-      "name": "DEWFORD TOWN",
+      "name": "DEWFORD LINN",
       "x": 2,
       "y": 14,
       "width": 1,
@@ -26,7 +26,7 @@
     },
     {
       "id": "MAPSEC_LAVARIDGE_TOWN",
-      "name": "LAVARIDGE TOWN",
+      "name": "LAVARIDGE LINN",
       "x": 5,
       "y": 3,
       "width": 1,
@@ -34,7 +34,7 @@
     },
     {
       "id": "MAPSEC_FALLARBOR_TOWN",
-      "name": "FALLARBOR TOWN",
+      "name": "FALLARBOR LINN",
       "x": 3,
       "y": 0,
       "width": 1,
@@ -42,7 +42,7 @@
     },
     {
       "id": "MAPSEC_VERDANTURF_TOWN",
-      "name": "VERDANTURF TOWN",
+      "name": "VERDANTURF LINN",
       "x": 4,
       "y": 6,
       "width": 1,
@@ -50,7 +50,7 @@
     },
     {
       "id": "MAPSEC_PACIFIDLOG_TOWN",
-      "name": "PACIFIDLOG TOWN",
+      "name": "PACIFIDLOG LINN",
       "x": 17,
       "y": 10,
       "width": 1,
@@ -58,7 +58,7 @@
     },
     {
       "id": "MAPSEC_PETALBURG_CITY",
-      "name": "PETALBURG CITY",
+      "name": "PETALBURG LINN",
       "x": 1,
       "y": 9,
       "width": 1,
@@ -66,7 +66,7 @@
     },
     {
       "id": "MAPSEC_SLATEPORT_CITY",
-      "name": "SLATEPORT CITY",
+      "name": "SLATEPORT LINN",
       "x": 8,
       "y": 10,
       "width": 1,
@@ -74,7 +74,7 @@
     },
     {
       "id": "MAPSEC_MAUVILLE_CITY",
-      "name": "MAUVILLE CITY",
+      "name": "MAUVILLE LINN",
       "x": 8,
       "y": 6,
       "width": 2,
@@ -82,7 +82,7 @@
     },
     {
       "id": "MAPSEC_RUSTBORO_CITY",
-      "name": "RUSTBORO CITY",
+      "name": "RUSTBORO LINN",
       "x": 0,
       "y": 5,
       "width": 1,
@@ -90,7 +90,7 @@
     },
     {
       "id": "MAPSEC_FORTREE_CITY",
-      "name": "FORTREE CITY",
+      "name": "FORTREE LINN",
       "x": 12,
       "y": 0,
       "width": 1,
@@ -98,7 +98,7 @@
     },
     {
       "id": "MAPSEC_LILYCOVE_CITY",
-      "name": "LILYCOVE CITY",
+      "name": "LILYCOVE LINN",
       "x": 18,
       "y": 3,
       "width": 2,
@@ -106,7 +106,7 @@
     },
     {
       "id": "MAPSEC_MOSSDEEP_CITY",
-      "name": "MOSSDEEP CITY",
+      "name": "MOSSDEEP LINN",
       "x": 24,
       "y": 5,
       "width": 2,
@@ -114,7 +114,7 @@
     },
     {
       "id": "MAPSEC_SOOTOPOLIS_CITY",
-      "name": "SOOTOPOLIS CITY",
+      "name": "SOOTOPOLIS LINN",
       "x": 21,
       "y": 7,
       "width": 1,
@@ -122,7 +122,7 @@
     },
     {
       "id": "MAPSEC_EVER_GRANDE_CITY",
-      "name": "EVER GRANDE CITY",
+      "name": "EVER GRANDE LINN",
       "x": 27,
       "y": 8,
       "width": 1,
@@ -695,35 +695,35 @@
     },
     {
       "id": "MAPSEC_PALLET_TOWN",
-      "name": "PALLET TOWN"
+      "name": "PALLET LINN"
     },
     {
       "id": "MAPSEC_VIRIDIAN_CITY",
-      "name": "VIRIDIAN CITY"
+      "name": "VIRIDIAN LINN"
     },
     {
       "id": "MAPSEC_PEWTER_CITY",
-      "name": "PEWTER CITY"
+      "name": "PEWTER LINN"
     },
     {
       "id": "MAPSEC_CERULEAN_CITY",
-      "name": "CERULEAN CITY"
+      "name": "CERULEAN LINN"
     },
     {
       "id": "MAPSEC_LAVENDER_TOWN",
-      "name": "LAVENDER TOWN"
+      "name": "LAVENDER LINN"
     },
     {
       "id": "MAPSEC_VERMILION_CITY",
-      "name": "VERMILION CITY"
+      "name": "VERMILION LINN"
     },
     {
       "id": "MAPSEC_CELADON_CITY",
-      "name": "CELADON CITY"
+      "name": "CELADON LINN"
     },
     {
       "id": "MAPSEC_FUCHSIA_CITY",
-      "name": "FUCHSIA CITY"
+      "name": "FUCHSIA LINN"
     },
     {
       "id": "MAPSEC_CINNABAR_ISLAND",
@@ -735,7 +735,7 @@
     },
     {
       "id": "MAPSEC_SAFFRON_CITY",
-      "name": "SAFFRON CITY"
+      "name": "SAFFRON LINN"
     },
     {
       "id": "MAPSEC_ROUTE_4_POKECENTER",
